@@ -1,11 +1,12 @@
-<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description" content="Hjm's blog"><title>VPS教程系列一：翻墙（shadowsocks） | Hjm</title><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/normalize/6.0.0/normalize.min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.2/pure-min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.2/grids-responsive-min.css"><link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">VPS教程系列一：翻墙（shadowsocks）</h1><a id="logo" href="/.">Hjm</a><p class="description">study and terrific</p></div><div id="nav-menu"><a href="/." class="current"><i class="fa fa-home"> 首页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-user"> 关于</i></a><a href="/history/"><i class="fa fa-history"> 历史</i></a><a href="/guestbook/"><i class="fa fa-comments"> 留言</i></a><a href="http://steamcommunity.com/profiles/76561198261706955/"><i class="fa fa-rss"> steam</i></a></div></div><div id="layout" class="pure-g"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title">VPS教程系列一：翻墙（shadowsocks）</h1><div class="post-meta">May 12, 2017<span> | </span><span class="category"><a href="/categories/VPS/">VPS</a></span><span id="busuanzi_container_page_pv"> | <span id="busuanzi_value_page_pv"></span><span> 阅读</span><span> |  本文共计 </span><span class="post-count">942</span><span> 字  |  阅读约需 </span><span class="post-count">4</span><span> 分钟 </span></span></div><a href="/2017/05/12/vps1/#comments" class="ds-thread-count cloud-tie-join-count"><span style="font-size: 15px; color: #6E7173;" class="join-count">0</span><span> 条参与</span></a><div class="post-content"><blockquote>
+<!DOCTYPE html><html lang="zh-CN"><head><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"><meta content="yes" name="apple-mobile-web-app-capable"><meta content="black-translucent" name="apple-mobile-web-app-status-bar-style"><meta content="telephone=no" name="format-detection"><meta name="description" content="Hjm's blog"><title>VPS教程系列一：翻墙（shadowsocks） | Hjm</title><link rel="stylesheet" type="text/css" href="/css/style.css?v=0.0.0"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/normalize/6.0.0/normalize.min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.2/pure-min.css"><link rel="stylesheet" type="text/css" href="//cdn.bootcss.com/pure/0.6.2/grids-responsive-min.css"><link rel="stylesheet" href="//cdn.bootcss.com/font-awesome/4.7.0/css/font-awesome.min.css"><script type="text/javascript" src="//cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script><link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><link rel="apple-touch-icon-precomposed" href="/apple-touch-icon.png"></head><body><div class="body_container"><div id="header"><div class="site-name"><h1 class="hidden">VPS教程系列一：翻墙（shadowsocks）</h1><a id="logo" href="/.">Hjm</a><p class="description">study and terrific</p></div><div id="nav-menu"><a href="/." class="current"><i class="fa fa-home"> 首页</i></a><a href="/archives/"><i class="fa fa-archive"> 归档</i></a><a href="/about/"><i class="fa fa-user"> 关于</i></a><a href="/history/"><i class="fa fa-history"> 历史</i></a><a href="/guestbook/"><i class="fa fa-comments"> 留言</i></a><a href="http://steamcommunity.com/profiles/76561198261706955/"><i class="fa fa-rss"> steam</i></a></div></div><div id="layout" class="pure-g"><div class="pure-u-1 pure-u-md-3-4"><div class="content_container"><div class="post"><h1 class="post-title">VPS教程系列一：翻墙（shadowsocks）</h1><div class="post-meta">May 12, 2017<span> | </span><span class="category"><a href="/categories/VPS/">VPS</a></span><span id="busuanzi_container_page_pv"> | <span id="busuanzi_value_page_pv"></span><span> 阅读</span><span> |  本文共计 </span><span class="post-count">928</span><span> 字  |  阅读约需 </span><span class="post-count">4</span><span> 分钟 </span></span></div><a href="/2017/05/12/vps1/#comments" class="ds-thread-count cloud-tie-join-count"><span style="font-size: 15px; color: #6E7173;" class="join-count">0</span><span> 条参与</span></a><div class="post-content"><blockquote>
 <p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我<br><img src="http://i2.muimg.com/588926/12ba8f9bdd92b720.jpg" alt=""></p>
 </blockquote>
 <hr>
 <h1 id="理论基础"><a href="#理论基础" class="headerlink" title="理论基础"></a>理论基础</h1><h2 id="VPS？"><a href="#VPS？" class="headerlink" title="VPS？"></a>VPS？</h2><p><img src="http://i2.muimg.com/588926/87ffaf2286f8dfe0.png" alt=""></p>
 <p>可以简单地理解为小型服务器？</p>
 <h2 id="墙？"><a href="#墙？" class="headerlink" title="墙？"></a>墙？</h2><p><img src="http://i2.muimg.com/588926/349b64e6670c4767.png" alt=""></p>
-<h2 id="翻墙？"><a href="#翻墙？" class="headerlink" title="翻墙？"></a>翻墙？</h2><p>绕过防火墙，使用谷歌，维基百科，<del>pornhub</del>等良心产品</p>
+<h2 id="翻墙？"><a href="#翻墙？" class="headerlink" title="翻墙？"></a>翻墙？</h2><p><img src="http://i4.buimg.com/567954/3c3925435f965c2ft.jpg" alt=""></p>
+<p>绕过防火墙，使用谷歌，维基百科，<del>pornhub</del>等良心产品</p>
 <h2 id="shadowsocks"><a href="#shadowsocks" class="headerlink" title="shadowsocks"></a>shadowsocks</h2><p><img src="http://i2.muimg.com/588926/ee4c576a9652fbc1.png" alt=""></p>
 <p>一种翻墙方法</p>
 <h2 id="为什么不用其他方法？（ss的优点）"><a href="#为什么不用其他方法？（ss的优点）" class="headerlink" title="为什么不用其他方法？（ss的优点）"></a>为什么不用其他方法？（ss的优点）</h2><ul>
@@ -21,14 +22,24 @@
 <li>ss客户端的钱（iOS）</li>
 </ul>
 <hr>
+<blockquote>
+<p>如果你想使用ss翻墙，但懒于DIY，欢迎<a href="http://huangjiaming.com/about/">联系我与我合租VPS</a></p>
+<p>如果你想免费翻墙，请参阅GAE，VPN，DNS/hosts法等</p>
+<p>是有免费ss的，翻墙质量仁者见仁，智者见智</p>
+</blockquote>
+<hr>
 <h1 id="实际操作"><a href="#实际操作" class="headerlink" title="实际操作"></a>实际操作</h1><h2 id="客户端"><a href="#客户端" class="headerlink" title="客户端"></a>客户端</h2><h3 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h3><p>参见<br><a href="https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E" target="_blank" rel="external">github</a></p>
-<h3 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h3><p>谷歌/百度/必应 shadowsocks macOS<br>（作为Mac用户我居然没用过Mac的ss？？？）</p>
+<h3 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h3><p>参见<br><a href="https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-%E5%B8%AE%E5%8A%A9" target="_blank" rel="external">github</a></p>
 <h3 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h3><p>App Store中</p>
 <p><img src="http://i4.buimg.com/588926/9a7fa7742786dceb.png" alt=""><br><img src="http://i2.muimg.com/588926/9ea8fc0f87bf3bde.png" alt=""><br><img src="http://i1.piimg.com/588926/bd3a89cc90baace0.png" alt=""></p>
-<p>个人推荐take（也是我现在用的）<br>iOS似乎目前还没有免费的ss客户端</p>
-<h3 id="android"><a href="#android" class="headerlink" title="android"></a>android</h3><p>（由于我不是android用户）请自行应用商店搜索shadowsocks</p>
+<p>个人推荐take（也是我现在用的）（自带免费ss）<br>iOS似乎目前还没有免费的ss客户端</p>
+<h3 id="android"><a href="#android" class="headerlink" title="android"></a>android</h3><p>参见<br><a href="https://github.com/shadowsocks/shadowsocks-android/blob/master/README.md" target="_blank" rel="external">github</a></p>
 <hr>
-<h2 id="服务端"><a href="#服务端" class="headerlink" title="服务端"></a>服务端</h2><p>你需要一台海外的vps<br>这里我推荐的（现在用的）是vultr的日本东京机房，当然你要说我做广告我也没办法(╯°□°）╯︵ ┻━┻<br><a href="vultr.com">vultr</a><br><a href="http://www.vultr.com/?ref=7151882" target="_blank" rel="external">如果用这个链接注册我似乎能拿到钱？</a><br>注册完后会让你先充一笔钱，最低$5（支持支付宝）<br>充完钱后账户激活，就可以开始部署VPS了<br>点击加号进入VPS规格挑选</p>
+<h2 id="服务端"><a href="#服务端" class="headerlink" title="服务端"></a>服务端</h2><p>你需要一台海外的vps<br>这里我推荐的（现在用的）是vultr的日本东京机房，当然你要说我做广告我也没办法(╯°□°）╯︵ ┻━┻<br><a href="vultr.com">vultr</a><br><a href="http://www.vultr.com/?ref=7151882" target="_blank" rel="external">如果用这个链接注册我似乎能拿到钱？</a></p>
+<blockquote>
+<p>其他vps推荐参考<a href="https://www.zhihu.com/question/20800554" target="_blank" rel="external">bihu</a></p>
+</blockquote>
+<p>VPS规格挑选（以vultr为例）</p>
 <ol>
 <li>类型选择Vultr Cloud Compute(VC2)</li>
 <li>地点建议选择日本东京（低ping）</li>
@@ -41,20 +52,19 @@
 </ol>
 <ul>
 <li>IP</li>
-<li>用户名（都是root）</li>
+<li>用户名</li>
 <li>密码</li>
 </ul>
-<p><img src="http://i2.muimg.com/567954/4fafea7c67fabd30t.jpg" alt="MarkLite"></p>
-<p>现在，你需要开始对VPS进行配置，这需要一个软件</p>
-<h3 id="Windows-1"><a href="#Windows-1" class="headerlink" title="Windows"></a>Windows</h3><p><a href="http://www.putty.org/" target="_blank" rel="external">putty</a><br>安装后打开，输入IP，点击连接，弹出黑色的连接页面<br>先输入用户名root，回车确认后输入密码</p>
+<p><img src="http://i2.muimg.com/567954/4fafea7c67fabd30t.jpg" alt=""></p>
+<h2 id="客户端配置"><a href="#客户端配置" class="headerlink" title="客户端配置"></a>客户端配置</h2><h3 id="Windows-1"><a href="#Windows-1" class="headerlink" title="Windows"></a>Windows</h3><p><a href="http://www.putty.org/" target="_blank" rel="external">putty</a><br>安装后打开，输入IP，点击连接，弹出黑色的连接页<br>先输入用户名，回车后输入密码</p>
 <blockquote>
 <p>密码输入时没有任何显示，输入完后回车即可</p>
 <p>粘贴是右键，不是Ctrl+V</p>
 </blockquote>
-<h3 id="macOS-1"><a href="#macOS-1" class="headerlink" title="macOS"></a>macOS</h3><p>不知道</p>
+<h3 id="macOS-1"><a href="#macOS-1" class="headerlink" title="macOS"></a>macOS</h3><p>参见<br><a href="https://www.quora.com/What-is-the-equivalent-of-PuTTY-for-Mac-OS-X" target="_blank" rel="external">Quora</a><br>和Windows部分</p>
 <h3 id="iOS-1"><a href="#iOS-1" class="headerlink" title="iOS"></a>iOS</h3><p>App Store下载Termius<br>在Hosts中点击加号，选择New Hosts，如图填写</p>
-<p><img src="http://i4.buimg.com/567954/5bf0d5545cb5dd34t.jpg" alt="MarkLite"></p>
-<h3 id="android-1"><a href="#android-1" class="headerlink" title="android"></a>android</h3><p>不知道</p>
+<p><img src="http://i4.buimg.com/567954/5bf0d5545cb5dd34t.jpg" alt=""></p>
+<h3 id="android-1"><a href="#android-1" class="headerlink" title="android"></a>android</h3><p>搜索Termux安装，参考iOS</p>
 <hr>
 <h2 id="服务端-shadowsocks的安装"><a href="#服务端-shadowsocks的安装" class="headerlink" title="服务端 shadowsocks的安装"></a>服务端 shadowsocks的安装</h2><p>输入<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev.sh</div><div class="line">chmod +x shadowsocks-libev.sh</div><div class="line">./shadowsocks-libev.sh 2&gt;&amp;1 | tee shadowsocks-libev.log</div></pre></td></tr></table></figure></p>
 <p>后填写信息 一路回车</p>
@@ -72,9 +82,9 @@
 <p>来一键安装锐速破解版<br>至此，服务端完成<br>参见：<a href="https://github.com/91yun/serverspeeder/blob/master/README.md" target="_blank" rel="external">GitHub</a></p>
 <hr>
 <h2 id="客户端-完成"><a href="#客户端-完成" class="headerlink" title="客户端 完成"></a>客户端 完成</h2><p>以iOS take为例，其他客户端大同小异，配置好即可开始使用</p>
-<p><img src="http://i1.piimg.com/567954/ac36478031b06238t.jpg" alt="MarkLite"></p>
+<p><img src="http://i1.piimg.com/567954/ac36478031b06238t.jpg" alt=""></p>
 <p>至此，VPS翻墙教程结束</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=447943681&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1862601&auto=1&height=66"></iframe>
 </div><script type="text/javascript" src="/js/share.js?v=0.0.0" async></script><a data-url="http://huangjiaming.com/2017/05/12/vps1/" data-id="cj2n736dh0000eoxu2f61ivko" class="article-share-link">分享</a><div class="tags"><a href="/tags/VPS/">VPS</a><a href="/tags/教程/">教程</a><a href="/tags/翻墙/">翻墙</a><a href="/tags/shadowsocks/">shadowsocks</a></div><div class="post-nav"><a href="/2017/05/12/vps2/" class="pre">VPS教程系列二：mono+ASF云挂卡</a><a href="/2017/05/10/欢迎/" class="next">欢迎</a></div><div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div><script>var cloudTieConfig = {
   url: document.location.href,
   productKey: "7cd3ba21eef04f2a8d3f3790af59ab20## Your gentie_productKey, e.g. fc799538c7ad4cf5a5a0c2877a90cbd7",
