@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hjm</title>
+  <subtitle>study and terrific</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://huangjiaming.com/"/>
+  <updated>2017-05-19T09:07:39.005Z</updated>
+  <id>http://huangjiaming.com/</id>
+  
+  <author>
+    <name>Hjm</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>梗：土豆服务器</title>
+    <link href="http://huangjiaming.com/2017/05/19/potatoserver/"/>
+    <id>http://huangjiaming.com/2017/05/19/potatoserver/</id>
+    <published>2017-05-19T07:56:50.000Z</published>
+    <updated>2017-05-19T09:07:39.005Z</updated>
+    
+    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=471968381&auto=1&height=66"></iframe>
+
+<p><del>适度玩梗，有益身体健康</del></p>
+<h1 id="本意"><a href="#本意" class="headerlink" title="本意"></a>本意</h1><blockquote>
+<p>我们回溯到2000年，一位名为佛瑞德·怀特的男子创造了一台采用5个马铃薯作为动力的Web服务器，这台奇怪的服务器每秒钟仅可以处理0.2个页面请求，也就是说大概5秒钟才能处理一个完整的用户请求，这样的速度确实不值得恭维。最终怀特放弃了这台服务器，不过他的主要原因不是忍受不了服务器的性能，而是“再也忍受不了马铃薯的腐烂”。</p>
+</blockquote>
+<p>（据考证）</p>
+<h1 id="传送门2"><a href="#传送门2" class="headerlink" title="传送门2"></a>传送门2</h1><p>出自于《传送门2》的人工智能GLaDOS被移植到一个马铃薯电池上运作，导致性能大减。</p>
+<iframe src="http://store.steampowered.com/widget/620/7877/?t=%E4%BD%93%E9%AA%8Csource%E5%BC%95%E6%93%8E%E7%8B%AC%E6%9C%89%E7%9A%843D%E7%9C%A9%E6%99%95" frameborder="0" width="300" height="200"></iframe>
+
+<p><del>玩别的游戏一点事没有的我，传送门1半小时吐了，传送门2坚持了一个多小时也gg了</del></p>
+<h1 id="EA和育碧"><a href="#EA和育碧" class="headerlink" title="EA和育碧"></a>EA和育碧</h1><p>因为EA的游戏平台origin、育碧的游戏平台uplay<del>playu</del>以及部分育碧游戏糟糕的网络质量被黑为土豆服务器</p>
+<p><img src="https://ooo.0o0.ooo/2017/05/19/591eac387d1a0.png" alt=""></p>
+<hr>
+<p><img src="https://ooo.0o0.ooo/2017/05/19/591eac3b30a64.jpg" alt=""></p>
+<hr>
+<p><img src="https://ooo.0o0.ooo/2017/05/19/591eac3b7a74b.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=
+    
+    </summary>
+    
+      <category term="梗" scheme="http://huangjiaming.com/categories/%E6%A2%97/"/>
+    
+    
+      <category term="梗" scheme="http://huangjiaming.com/tags/%E6%A2%97/"/>
+    
+      <category term="土豆服务器" scheme="http://huangjiaming.com/tags/%E5%9C%9F%E8%B1%86%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VPS教程系列三：VPS+GitHub pages+hexo搭建博客</title>
+    <link href="http://huangjiaming.com/2017/05/13/vps3/"/>
+    <id>http://huangjiaming.com/2017/05/13/vps3/</id>
+    <published>2017-05-13T11:31:09.000Z</published>
+    <updated>2017-05-18T13:43:26.706Z</updated>
+    
+    <content type="html"><![CDATA[<p>占坑待填<br><img src="https://ooo.0o0.ooo/2017/05/18/591d5144c6db0.jpeg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;占坑待填&lt;br&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2017/05/18/591d5144c6db0.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+      <category term="VPS" scheme="http://huangjiaming.com/categories/VPS/"/>
+    
+    
+      <category term="VPS" scheme="http://huangjiaming.com/tags/VPS/"/>
+    
+      <category term="教程" scheme="http://huangjiaming.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="hexo" scheme="http://huangjiaming.com/tags/hexo/"/>
+    
+      <category term="博客" scheme="http://huangjiaming.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VPS教程系列二：mono+ASF云挂卡</title>
+    <link href="http://huangjiaming.com/2017/05/12/vps2/"/>
+    <id>http://huangjiaming.com/2017/05/12/vps2/</id>
+    <published>2017-05-12T11:02:59.000Z</published>
+    <updated>2017-05-26T14:00:00.750Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡</p>
+</blockquote>
+<p><img src="https://ooo.0o0.ooo/2017/05/18/591d51c733499.jpeg" alt=""></p>
+<hr>
+<blockquote>
+<p>本篇文章面向的是</p>
+<ol>
+<li>steamer 且</li>
+<li>了解steam集换式卡牌 且</li>
+<li>有云挂卡需求 且</li>
+<li>能在本地使用idle master/ASF挂卡 </li>
+</ol>
+</blockquote>
+<hr>
+<ol>
+<li>如果你不是steamer<br> 欢迎入坑<del>记得加我</del><br> <a href="http://store.steampowered.com/" target="_blank" rel="external">Steam</a><br> <img src="https://ooo.0o0.ooo/2017/05/18/591d52064a7f0.jpeg" alt=""></li>
+<li>steam集换式卡牌<br> 详见<a href="https://steamcommunity.com/tradingcards/faq/Steam?l=schinese" target="_blank" rel="external">steam集换式卡牌</a></li>
+<li>本地ASF挂卡<br> 详见<br>（入门）<a href="https://steamcn.com/t187323-1-1" target="_blank" rel="external">ASF图形配置程序设置</a><br>（高级）<a href="https://steamcn.com/t176404-1-1" target="_blank" rel="external">ArchiSteamFarm(ASF)掛卡配置與命令教程</a><br>（自定义）<a href="https://steamcn.com/t187703-1-1" target="_blank" rel="external">ASF官方维基中文版</a><blockquote>
+<p>提示：steamcn是非官方站点</p>
+</blockquote>
+</li>
+</ol>
+<hr>
+<p>附上我自己的ASF配置文件，仅供参考 huangjiamianbao.json<br><figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div><div class="line">41</div><div class="line">42</div><div class="line">43</div><div class="line">44</div><div class="line">45</div><div class="line">46</div><div class="line">47</div><div class="line">48</div><div class="line">49</div><div class="line">50</div><div class="line">51</div><div class="line">52</div><div class="line">53</div><div class="line">54</div><div class="line">55</div><div class="line">56</div><div class="line">57</div><div class="line">58</div><div class="line">59</div><div class="line">60</div><div class="line">61</div><div class="line">62</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">  <span class="attr">"AcceptGifts"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"CardDropsRestricted"</span>: <span class="literal">true</span>,</div><div class="line">  <span class="attr">"CustomGamePlayedWhileFarming"</span>: <span class="string">"ASF云挂卡中 "</span>,</div><div class="line">  <span class="attr">"CustomGamePlayedWhileIdle"</span>: <span class="string">"ASF云挂卡已完成"</span>,</div><div class="line">  <span class="attr">"DismissInventoryNotifications"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"Enabled"</span>: <span class="literal">true</span>,</div><div class="line">  <span class="attr">"FarmingOrder"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"FarmOffline"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"GamesPlayedWhileIdle"</span>: [</div><div class="line">    <span class="number">730</span>,</div><div class="line">    <span class="number">218620</span>,</div><div class="line">    <span class="number">238090</span>,</div><div class="line">    <span class="number">384300</span>,</div><div class="line">    <span class="number">8930</span>,</div><div class="line">    <span class="number">271590</span>,</div><div class="line">    <span class="number">493340</span>,</div><div class="line">    <span class="number">206440</span>,</div><div class="line">    <span class="number">493340</span>,</div><div class="line">    <span class="number">206440</span>,</div><div class="line">    <span class="number">210770</span>,</div><div class="line">    <span class="number">218620</span>,</div><div class="line">    <span class="number">238090</span>,</div><div class="line">    <span class="number">384300</span>,</div><div class="line">    <span class="number">8930</span>,</div><div class="line">    <span class="number">271590</span>,</div><div class="line">    <span class="number">493340</span>,</div><div class="line">    <span class="number">206440</span>,</div><div class="line">    <span class="number">210770</span>,</div><div class="line">    <span class="number">203160</span>,</div><div class="line">    <span class="number">252950</span>,</div><div class="line">    <span class="number">385800</span>,</div><div class="line">    <span class="number">420110</span>,</div><div class="line">    <span class="number">333600</span>,</div><div class="line">    <span class="number">475550</span>,</div><div class="line">    <span class="number">108710</span>,</div><div class="line">    <span class="number">346010</span>,</div><div class="line">    <span class="number">17480</span></div><div class="line">  ],</div><div class="line">  <span class="attr">"HandleOfflineMessages"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"IsBotAccount"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"LootableTypes"</span>: [</div><div class="line">    <span class="number">1</span>,</div><div class="line">    <span class="number">3</span>,</div><div class="line">    <span class="number">5</span></div><div class="line">  ],</div><div class="line">  <span class="attr">"PasswordFormat"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"Paused"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"RedeemingPreferences"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"SendOnFarmingFinished"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"SendTradePeriod"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"ShutdownOnFarmingFinished"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"SteamLogin"</span>: <span class="string">"huangjiamianbao"</span>,</div><div class="line">  <span class="attr">"SteamMasterClanID"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"SteamParentalPIN"</span>: <span class="string">"0"</span>,</div><div class="line">  <span class="attr">"SteamPassword"</span>: <span class="string">"我的steam密码"</span>,</div><div class="line">  <span class="attr">"SteamTradeToken"</span>: <span class="literal">null</span>,</div><div class="line">  <span class="attr">"SteamUserPermissions"</span>: &#123;</div><div class="line">    <span class="attr">"76561198384518469"</span>: <span class="number">3</span></div><div class="line">  &#125;,</div><div class="line">  <span class="attr">"TradingPreferences"</span>: <span class="number">1</span></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<h1 id="安装mono（以centos6为例）"><a href="#安装mono（以centos6为例）" class="headerlink" title="安装mono（以centos6为例）"></a>安装mono（以centos6为例）</h1><p>ASF在Windows上运行需要.NET，而在centos下则需要mono</p>
+<figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">yum install yum-utils</div><div class="line">rpm --<span class="keyword">import</span> <span class="string">"http://keyserver.ubuntu.com/pks/lookup?op=get&amp;search=0x3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF"</span></div><div class="line">yum-<span class="built_in">config</span>-manager --add-repo http:<span class="comment">//download.mono-project.com/repo/centos6/</span></div></pre></td></tr></table></figure>
+<p><code>yum install mono-complete</code></p>
+<p>检查<code>mono -V</code></p>
+<p>参见<a href="http://www.mono-project.com/download/" target="_blank" rel="external">Mono</a></p>
+<h1 id="上传ASF"><a href="#上传ASF" class="headerlink" title="上传ASF"></a>上传ASF</h1><p>上传ASF.exe和config文件夹到VPS</p>
+<h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><p>FlashFXP，官网疑似gg，自行下载<br>在站点管理器中填写好信息后上传</p>
+<h2 id="android"><a href="#android" class="headerlink" title="android"></a>android</h2><p>如果已在墙外，Google Play下载AndFTP<br>否则，<a href="http://www.apkmirror.com/apk/lysesoft/andftp-your-ftp-client/andftp-your-ftp-client-4-3-release/andftp-ftp-client-4-3-android-apk-download/" target="_blank" rel="external">AndFTP</a></p>
+<p>填写好域名，类型，用户名，密码后上传</p>
+<p><img src="https://ooo.0o0.ooo/2017/05/26/59282ff9180bb.jpg" alt=""></p>
+<h2 id="其他系统"><a href="#其他系统" class="headerlink" title="其他系统"></a>其他系统</h2><p>未知</p>
+<h1 id="mono运行ASF"><a href="#mono运行ASF" class="headerlink" title="mono运行ASF"></a>mono运行ASF</h1><p><code>screen -S asf</code><br>后台运行ASF</p>
+<p><code>cd ASF</code><br>打开ASF目录</p>
+<p><code>mono ASF.exe</code><br>使用mono运行ASF</p>
+<p>ASF成功打开后（可能需要输入手机令牌），就可以关闭连接</p>
+<h1 id="后期维护"><a href="#后期维护" class="headerlink" title="后期维护"></a>后期维护</h1><p><code>screen -ls</code><br>查看后台</p>
+<p><code>kill 进程号</code><br>关闭后台ASF</p>
+<p>参照上一部分重启ASF</p>
+<h1 id="ASF高级应用"><a href="#ASF高级应用" class="headerlink" title="ASF高级应用"></a>ASF高级应用</h1><p><del>这是最新的操作</del></p>
+<ul>
+<li>自定义状态显示 </li>
+<li>挂游戏时长</li>
+<li>自动批量激活游戏key</li>
+<li>等</li>
+</ul>
+<p><img src="https://ooo.0o0.ooo/2017/05/26/592833c628ceb.jpg" alt=""></p>
+<p><img src="https://ooo.0o0.ooo/2017/05/26/592833c639a48.jpg" alt=""></p>
+<p><img src="https://ooo.0o0.ooo/2017/05/26/592833c64f0b8.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://ooo.
+    
+    </summary>
+    
+      <category term="VPS" scheme="http://huangjiaming.com/categories/VPS/"/>
+    
+    
+      <category term="VPS" scheme="http://huangjiaming.com/tags/VPS/"/>
+    
+      <category term="教程" scheme="http://huangjiaming.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="mono" scheme="http://huangjiaming.com/tags/mono/"/>
+    
+      <category term="ASF" scheme="http://huangjiaming.com/tags/ASF/"/>
+    
+      <category term="云挂卡" scheme="http://huangjiaming.com/tags/%E4%BA%91%E6%8C%82%E5%8D%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VPS教程系列一：翻墙（shadowsocks）</title>
+    <link href="http://huangjiaming.com/2017/05/12/vps1/"/>
+    <id>http://huangjiaming.com/2017/05/12/vps1/</id>
+    <published>2017-05-12T04:33:41.000Z</published>
+    <updated>2017-05-26T08:45:18.705Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote>
+<p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
+</blockquote>
+<p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a6e9d95.jpeg" alt=""></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1862601&auto=1&height=66"></iframe>
+
+<hr>
+<h1 id="理论基础"><a href="#理论基础" class="headerlink" title="理论基础"></a>理论基础</h1><h2 id="VPS？"><a href="#VPS？" class="headerlink" title="VPS？"></a>VPS？</h2><p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a7b16e4.png" alt=""></p>
+<h2 id="墙？"><a href="#墙？" class="headerlink" title="墙？"></a>墙？</h2><p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a7a7541.png" alt=""></p>
+<h2 id="翻墙？"><a href="#翻墙？" class="headerlink" title="翻墙？"></a>翻墙？</h2><p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a74af51.jpeg" alt=""></p>
+<p>绕过防火墙，使用谷歌，维基百科，<del>pornhub</del>等良心产品</p>
+<h2 id="shadowsocks"><a href="#shadowsocks" class="headerlink" title="shadowsocks"></a>shadowsocks</h2><p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a7ab208.png" alt=""></p>
+<h2 id="为什么不用其他方法？（ss的优点）"><a href="#为什么不用其他方法？（ss的优点）" class="headerlink" title="为什么不用其他方法？（ss的优点）"></a>为什么不用其他方法？（ss的优点）</h2><ul>
+<li>安全（相对于open VPN）</li>
+<li>简单（相对于黑科技）</li>
+<li>网络质量好（几乎满速）</li>
+<li>完整的控制权（相对于第三方VPN）</li>
+<li>全平台（Windows，macOS，iOS，android等）</li>
+</ul>
+<h2 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h2><ul>
+<li>DIY</li>
+<li>VPS的钱</li>
+<li>ss客户端的钱（iOS）</li>
+</ul>
+<hr>
+<blockquote>
+<p>如果你想使用ss翻墙，但懒于DIY，欢迎<a href="http://huangjiaming.com/about/">联系我与我合租VPS</a></p>
+<p>如果你想免费翻墙，请参阅GAE，VPN，DNS/hosts法等</p>
+<p>是有免费ss的，翻墙质量仁者见仁，智者见智</p>
+</blockquote>
+<hr>
+<h1 id="实际操作"><a href="#实际操作" class="headerlink" title="实际操作"></a>实际操作</h1><h2 id="客户端-下载"><a href="#客户端-下载" class="headerlink" title="客户端 下载"></a>客户端 下载</h2><h3 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h3><p>参见<br><a href="https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E" target="_blank" rel="external">github</a></p>
+<h3 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h3><p>参见<br><a href="https://github.com/shadowsocks/shadowsocks-iOS/wiki/Shadowsocks-for-OSX-%E5%B8%AE%E5%8A%A9" target="_blank" rel="external">github</a></p>
+<h3 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h3><p>App Store中</p>
+<p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a7f0ba9.png" alt=""><br><img src="https://ooo.0o0.ooo/2017/05/18/591d52a828bc2.png" alt=""><br><img src="https://ooo.0o0.ooo/2017/05/18/591d52a88e0e8.png" alt=""></p>
+<p>个人推荐take（也是我现在用的）（自带免费ss）<br>iOS似乎目前还没有免费的ss客户端</p>
+<h3 id="android"><a href="#android" class="headerlink" title="android"></a>android</h3><p>如果已在墙外，Google Play下载Shadowsocks<br>否则，<a href="http://www.apkmirror.com/apk/max-lv/shadowsocks/shadowsocks-4-1-7-release/shadowsocks-4-1-7-android-apk-download/" target="_blank" rel="external">Shadowsocks</a></p>
+<h2 id="VPS"><a href="#VPS" class="headerlink" title="VPS"></a>VPS</h2><p>你需要一台海外（墙外）的vps<br>这里我推荐的（现在用的）是vultr的日本东京机房，当然你要说我做广告我也没办法(╯°□°）╯︵ ┻━┻<br><a href="vultr.com">vultr</a><br><a href="http://www.vultr.com/?ref=7151882" target="_blank" rel="external">如果用这个链接注册我似乎能拿到钱？</a></p>
+<blockquote>
+<p>其他vps推荐参考<a href="https://www.zhihu.com/question/20800554" target="_blank" rel="external">逼乎</a></p>
+</blockquote>
+<p>VPS规格挑选（以vultr为例）</p>
+<ol>
+<li>类型选择Vultr Cloud Compute(VC2)</li>
+<li>地点建议选择日本东京（低ping）</li>
+<li>系统选择64 bit OS中的Centos 6 x64</li>
+<li>配置选择最低配就行<blockquote>
+<p>$5/月（按小时计费）<br>25G SSD<br>1 CPU<br>1G 内存<br>1000G 流量</p>
+</blockquote>
+</li>
+<li>下面的选项不用更改，点击<strong>Deploy Now</strong><br>稍等一会，VPS就会安装好系统，并且你会收到一封邮件<br>在vultr中找到你的VPS，你需要记下三个信息</li>
+</ol>
+<ul>
+<li>IP</li>
+<li>用户名</li>
+<li>密码</li>
+</ul>
+<p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a817e2e.jpeg" alt=""></p>
+<h2 id="VPS配置"><a href="#VPS配置" class="headerlink" title="VPS配置"></a>VPS配置</h2><h3 id="Windows-1"><a href="#Windows-1" class="headerlink" title="Windows"></a>Windows</h3><p><a href="http://www.putty.org/" target="_blank" rel="external">putty</a><br>安装后打开，输入IP，点击连接，弹出黑色的连接页<br>先输入用户名，回车后输入密码</p>
+<blockquote>
+<p>密码输入时没有任何显示，输入完后回车即可</p>
+<p>粘贴是右键，不是Ctrl+V</p>
+</blockquote>
+<h3 id="macOS-1"><a href="#macOS-1" class="headerlink" title="macOS"></a>macOS</h3><p>参见<br><a href="https://www.quora.com/What-is-the-equivalent-of-PuTTY-for-Mac-OS-X" target="_blank" rel="external">Quora</a><br>和Windows部分</p>
+<h3 id="iOS-1"><a href="#iOS-1" class="headerlink" title="iOS"></a>iOS</h3><p>App Store下载Termius<br>在Hosts中点击加号，选择New Hosts，如图填写</p>
+<p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a820289.jpeg" alt=""></p>
+<h3 id="android-1"><a href="#android-1" class="headerlink" title="android"></a>android</h3><p>如果已在墙外，Google Play下载ConnectBot<br>否则，<a href="http://www.apkmirror.com/apk/kenny-root-jeff-sharkey-torne-wuff-paul-evans/connectbot/connectbot-1-9-2-release/connectbot-1-9-2-android-apk-download/" target="_blank" rel="external">ConnectBot</a><br>点击加号，如图填写（IP，用户名，开始Shell会话）</p>
+<p><img src="https://ooo.0o0.ooo/2017/05/26/5927c5a319f56.jpg" alt=""></p>
+<p><img src="https://ooo.0o0.ooo/2017/05/26/5927c5d9d7c3e.jpg" alt=""></p>
+<h2 id="VPS-shadowsocks的安装"><a href="#VPS-shadowsocks的安装" class="headerlink" title="VPS shadowsocks的安装"></a>VPS shadowsocks的安装</h2><p>输入<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">wget --<span class="keyword">no</span>-check-certificate -O shadowsocks-libev.<span class="keyword">sh</span> http<span class="variable">s:</span>//raw.githubusercontent.<span class="keyword">com</span>/teddysun/shadowsocks_install/master/shadowsocks-libev.<span class="keyword">sh</span></div><div class="line">chmod +<span class="keyword">x</span> shadowsocks-libev.<span class="keyword">sh</span></div><div class="line">./shadowsocks-libev.<span class="keyword">sh</span> <span class="number">2</span>&gt;&amp;<span class="number">1</span> | tee shadowsocks-libev.<span class="built_in">log</span></div></pre></td></tr></table></figure></p>
+<p>后填写信息 一路回车</p>
+<ul>
+<li>port 默认即可或自己设个端口</li>
+<li>password 自己设个密码<br>耐心等待 等到看到<figure class="highlight oxygene"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div></pre></td><td class="code"><pre><div class="line">Congratulations, Shadowsocks-libev install completed!</div><div class="line">Your Server IP:your_server_ip</div><div class="line">Your Server Port:your_server_port</div><div class="line">Your Password:your_password</div><div class="line">Your Local IP:<span class="number">127.0</span>.<span class="number">0.1</span></div><div class="line">Your Local Port:<span class="number">1080</span></div><div class="line">Your Encryption <span class="function"><span class="keyword">Method</span>:</span>aes-<span class="number">256</span>-cfb</div><div class="line"></div><div class="line">Welcome <span class="keyword">to</span> visit:https:<span class="comment">//teddysun.com/357.html</span></div><div class="line">Enjoy it!</div></pre></td></tr></table></figure>
+</li>
+</ul>
+<p>的时候，安装完成<br>参见：<a href="https://teddysun.com/357.html" target="_blank" rel="external">一键安装脚本说明</a></p>
+<h2 id="VPS-安装锐速破解版提速"><a href="#VPS-安装锐速破解版提速" class="headerlink" title="VPS 安装锐速破解版提速"></a>VPS 安装锐速破解版提速</h2><p>分别输入<br><figure class="highlight awk"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">rpm -ivh http:<span class="regexp">//</span>soft.<span class="number">91</span>yun.org<span class="regexp">/ISO/</span>Linux<span class="regexp">/CentOS/</span>kernel<span class="regexp">/kernel-firmware-2.6.32-504.3.3.el6.noarch.rpm</span></div></pre></td></tr></table></figure></p>
+<p>和<br><figure class="highlight awk"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">rpm -ivh http:<span class="regexp">//</span>soft.<span class="number">91</span>yun.org<span class="regexp">/ISO/</span>Linux<span class="regexp">/CentOS/</span>kernel<span class="regexp">/kernel-2.6.32-504.3.3.el6.x86_64.rpm --force</span></div></pre></td></tr></table></figure></p>
+<p>来更换内核</p>
+<p>安装完后重启<code>reboot</code><br>检查是否更换完成<code>uname -r</code><br>如果显示为<br><code>kernel-2.6.32-504.3.3.el6.x86_64</code><br>说明一切正常<br>之后输入<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">wget -<span class="keyword">N</span> --<span class="keyword">no</span>-check-certificate http<span class="variable">s:</span>//github.<span class="keyword">com</span>/<span class="number">91</span>yun/serverspeeder/raw/master/serverspeeder.<span class="keyword">sh</span> &amp;&amp; bash serverspeeder.<span class="keyword">sh</span></div></pre></td></tr></table></figure></p>
+<p>来一键安装锐速破解版<br>至此，VPS完成<br>参见：<a href="https://github.com/91yun/serverspeeder/blob/master/README.md" target="_blank" rel="external">GitHub</a></p>
+<h2 id="客户端-配置"><a href="#客户端-配置" class="headerlink" title="客户端 配置"></a>客户端 配置</h2><p>以iOS take和android shadowsocks为例，其他客户端大同小异，配置好即可开始使用</p>
+<h3 id="iOS-take"><a href="#iOS-take" class="headerlink" title="iOS take"></a>iOS take</h3><p><img src="https://ooo.0o0.ooo/2017/05/18/591d54e7d7c07.jpeg" alt=""></p>
+<h3 id="android-shadowsocks"><a href="#android-shadowsocks" class="headerlink" title="android shadowsocks"></a>android shadowsocks</h3><p><img src="https://ooo.0o0.ooo/2017/05/26/5927ea7ba1088.jpg" alt=""></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://ooo.0
+    
+    </summary>
+    
+      <category term="VPS" scheme="http://huangjiaming.com/categories/VPS/"/>
+    
+    
+      <category term="VPS" scheme="http://huangjiaming.com/tags/VPS/"/>
+    
+      <category term="教程" scheme="http://huangjiaming.com/tags/%E6%95%99%E7%A8%8B/"/>
+    
+      <category term="翻墙" scheme="http://huangjiaming.com/tags/%E7%BF%BB%E5%A2%99/"/>
+    
+      <category term="shadowsocks" scheme="http://huangjiaming.com/tags/shadowsocks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎</title>
+    <link href="http://huangjiaming.com/2017/05/10/%E6%AC%A2%E8%BF%8E/"/>
+    <id>http://huangjiaming.com/2017/05/10/欢迎/</id>
+    <published>2017-05-10T00:03:20.000Z</published>
+    <updated>2017-05-26T01:44:48.528Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>欢迎参观我的博客</strong></p>
+<p>本站建于我自己的vps+GitHub Pages上，<del>预计将于近期全站搬到vps上，提高访问速度</del>（最近很忙，怕不是要鸽）</p>
+<p><img src="https://ooo.0o0.ooo/2017/05/18/591d50946d5dd.jpeg" alt=""></p>
+<h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>详见<a href="https://huangjiaming.com/about/">“关于”页面</a></p>
+<h2 id="本站的日志"><a href="#本站的日志" class="headerlink" title="本站的日志"></a>本站的日志</h2><p>详见<a href="https://huangjiaming.com/history/">“历史”页面</a></p>
+<hr>
+<p><em>欢迎在<a href="https://huangjiaming.com/guestbook/">“留言”页面</a>留言</em><br><em>欢迎提交友链</em></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=447943681&auto=1&height=66"></iframe>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;strong&gt;欢迎参观我的博客&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本站建于我自己的vps+GitHub Pages上，&lt;del&gt;预计将于近期全站搬到vps上，提高访问速度&lt;/del&gt;（最近很忙，怕不是要鸽）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://ooo.0o0.
+    
+    </summary>
+    
+      <category term="其他" scheme="http://huangjiaming.com/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="欢迎" scheme="http://huangjiaming.com/tags/%E6%AC%A2%E8%BF%8E/"/>
+    
+  </entry>
+  
+</feed>
