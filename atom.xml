@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://huangjiaming.com/"/>
-  <updated>2017-05-27T07:39:15.949Z</updated>
+  <updated>2017-05-27T07:49:31.386Z</updated>
   <id>http://huangjiaming.com/</id>
   
   <author>
@@ -20,14 +20,13 @@
     <link href="http://huangjiaming.com/2017/05/27/pythonupdate/"/>
     <id>http://huangjiaming.com/2017/05/27/pythonupdate/</id>
     <published>2017-05-27T06:01:48.000Z</published>
-    <updated>2017-05-27T07:39:15.949Z</updated>
+    <updated>2017-05-27T07:49:31.386Z</updated>
     
     <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=467744316&auto=1&height=66"></iframe>
 
 <p>之前在VPS上装了不少东西，随手装了不少版本的python。今天用yum更新mono的时候，发现yum依赖的python2.6崩了，大概是之前更新的时候没弄好，python的版本乱七八糟。尝试瞎搞失败了，于是决定回退python解决yum后再更新</p>
 <hr>
-<h1 id="python回退到2-6"><a href="#python回退到2-6" class="headerlink" title="python回退到2.6"></a>python回退到2.6</h1><p><code>rpm -qa | grep python- | grep 2.6</code></p>
-<p><code>rpm -ivh --force --nodeps ftp://mirror.switch.ch/pool/4/mirror/scientificlinux/6.5/x86_64/updates/fastbugs/python-2.6.6-52.el6.x86_64.rpm</code></p>
+<h1 id="python回退到2-6"><a href="#python回退到2-6" class="headerlink" title="python回退到2.6"></a>python回退到2.6</h1><figure class="highlight awk"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">rpm -qa | grep python- | grep <span class="number">2.6</span></div><div class="line">rpm -ivh --force --nodeps ftp:<span class="regexp">//mi</span>rror.switch.ch<span class="regexp">/pool/</span><span class="number">4</span><span class="regexp">/mirror/</span>scientificlinux<span class="regexp">/6.5/</span>x86_64<span class="regexp">/updates/</span>fastbugs<span class="regexp">/python-2.6.6-52.el6.x86_64.rpm</span></div></pre></td></tr></table></figure>
 <h1 id="更新python"><a href="#更新python" class="headerlink" title="更新python"></a>更新python</h1><h2 id="更新系统和开发工具集"><a href="#更新系统和开发工具集" class="headerlink" title="更新系统和开发工具集"></a>更新系统和开发工具集</h2><figure class="highlight nginx"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="attribute">yum</span> -y update </div><div class="line">yum groupinstall -y <span class="string">'development tools'</span></div></pre></td></tr></table></figure>
 <h2 id="安装额外软件包"><a href="#安装额外软件包" class="headerlink" title="安装额外软件包"></a>安装额外软件包</h2><p><code>yum install -y zlib-devel bzip2-devel openssl-devel xz-libs wget</code></p>
 <h2 id="源码安装python3-6-1"><a href="#源码安装python3-6-1" class="headerlink" title="源码安装python3.6.1"></a>源码安装python3.6.1</h2><figure class="highlight stylus"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div></pre></td><td class="code"><pre><div class="line">wget http:<span class="comment">//www.python.org/ftp/python/3.6.1/Python-3.6.1.tar.xz </span></div><div class="line">xz -d Python-<span class="number">3.6</span>.<span class="number">1</span><span class="selector-class">.tar</span><span class="selector-class">.xz</span> </div><div class="line">tar -xvf Python-<span class="number">3.6</span>.<span class="number">1</span><span class="selector-class">.tar</span></div><div class="line">cd Python-<span class="number">3.6</span>.<span class="number">1</span></div><div class="line">configure: ./configure --prefix=/usr/local </div><div class="line">make</div><div class="line">make altinstall</div></pre></td></tr></table></figure>
