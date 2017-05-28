@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://huangjiaming.com/"/>
-  <updated>2017-05-28T17:48:53.975Z</updated>
+  <updated>2017-05-28T17:56:56.916Z</updated>
   <id>http://huangjiaming.com/</id>
   
   <author>
@@ -20,9 +20,10 @@
     <link href="http://huangjiaming.com/2017/05/28/dplayertest/"/>
     <id>http://huangjiaming.com/2017/05/28/dplayertest/</id>
     <published>2017-05-28T17:31:22.000Z</published>
-    <updated>2017-05-28T17:48:53.975Z</updated>
+    <updated>2017-05-28T17:56:56.916Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"autoplay":false,"theme":"#FADFA3","loop":true,"video":{"url":"https://api.prprpr.me/dplayer/bilibili?aid=4280983","pic":"http://home.ustc.edu.cn/~mmmwhy/GEM.jpg"}});</script>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"autoplay":false,"theme":"#FADFA3","loop":true,"video":{"url":"http://devtest.qiniudn.com/若能绽放光芒.mp4","pic":"http://devtest.qiniudn.com/若能绽放光芒.png"},"danmaku":{"api":"http://dplayer.daoapp.io","id":"9E2E3368B56CDBB4","token":"tokendemo","addition":["https://dplayer.daoapp.io/bilibili?aid=4157142"]}});</script>
+<div id="dplayer1" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer1 = new DPlayer({"element":document.getElementById("dplayer1"),"autoplay":false,"theme":"#FADFA3","loop":true,"video":{"url":"http://devtest.qiniudn.com/若能绽放光芒.mp4","pic":"http://devtest.qiniudn.com/若能绽放光芒.png"},"danmaku":{"api":"http://dplayer.donot.help/dplayerpy","id":"2622668","addition":["https://dplayer.daoapp.io/bilibili?aid=4157142"]}});</script>
 ]]></content>
     
     <summary type="html">
