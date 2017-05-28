@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://huangjiaming.com/"/>
-  <updated>2017-05-27T07:49:31.386Z</updated>
+  <updated>2017-05-28T17:38:40.585Z</updated>
   <id>http://huangjiaming.com/</id>
   
   <author>
@@ -16,13 +16,36 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>dplayertest</title>
+    <link href="http://huangjiaming.com/2017/05/28/dplayertest/"/>
+    <id>http://huangjiaming.com/2017/05/28/dplayertest/</id>
+    <published>2017-05-28T17:31:22.000Z</published>
+    <updated>2017-05-28T17:38:40.585Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>var option = {<br>    danmaku: {<br>        // …<br>        addition: [‘<a href="https://api.prprpr.me/dplayer/bilibili?aid=4280983" target="_blank" rel="external">https://api.prprpr.me/dplayer/bilibili?aid=4280983</a>    ‘]<br>    }<br>}</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;var option = {&lt;br&gt;    danmaku: {&lt;br&gt; 
+    
+    </summary>
+    
+      <category term="测试" scheme="http://huangjiaming.com/categories/%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="测试" scheme="http://huangjiaming.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
     <title>centos中python的重装与升级</title>
     <link href="http://huangjiaming.com/2017/05/27/pythonupdate/"/>
     <id>http://huangjiaming.com/2017/05/27/pythonupdate/</id>
     <published>2017-05-27T06:01:48.000Z</published>
     <updated>2017-05-27T07:49:31.386Z</updated>
     
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=467744316&auto=1&height=66"></iframe>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=467744316&auto=1&height=66"></iframe>
 
 <p>之前在VPS上装了不少东西，随手装了不少版本的python。今天用yum更新mono的时候，发现yum依赖的python2.6崩了，大概是之前更新的时候没弄好，python的版本乱七八糟。尝试瞎搞失败了，于是决定回退python解决yum后再更新</p>
 <hr>
@@ -39,7 +62,7 @@
     
     <summary type="html">
     
-      &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marg
     
     </summary>
     
@@ -61,7 +84,7 @@
     <published>2017-05-19T07:56:50.000Z</published>
     <updated>2017-05-19T09:07:39.005Z</updated>
     
-    <content type="html"><![CDATA[<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=471968381&auto=1&height=66"></iframe>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=471968381&auto=1&height=66"></iframe>
 
 <p><del>适度玩梗，有益身体健康</del></p>
 <h1 id="本意"><a href="#本意" class="headerlink" title="本意"></a>本意</h1><blockquote>
@@ -82,7 +105,7 @@
     
     <summary type="html">
     
-      &lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=&quot;330&quot; height=&quot;86&quot; src=&quot;//music.163.com/outchain/player?type=2&amp;id=
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marg
     
     </summary>
     
@@ -102,13 +125,12 @@
     <published>2017-05-13T11:31:09.000Z</published>
     <updated>2017-05-18T13:43:26.706Z</updated>
     
-    <content type="html"><![CDATA[<p>占坑待填<br><img src="https://ooo.0o0.ooo/2017/05/18/591d5144c6db0.jpeg" alt=""></p>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>占坑待填<br><img src="https://ooo.0o0.ooo/2017/05/18/591d5144c6db0.jpeg" alt=""></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;占坑待填&lt;br&gt;&lt;img src=&quot;https://ooo.0o0.ooo/2017/05/18/591d5144c6db0.jpeg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
-
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;占坑待填&lt;br&gt;&lt;img src=&quot;https://ooo.0o0.ooo
     
     </summary>
     
@@ -132,7 +154,7 @@
     <published>2017-05-12T11:02:59.000Z</published>
     <updated>2017-05-26T14:00:00.750Z</updated>
     
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡</p>
 </blockquote>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d51c733499.jpeg" alt=""></p>
@@ -189,10 +211,8 @@
     
     <summary type="html">
     
-      &lt;blockquote&gt;
-&lt;p&gt;继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;https://ooo.
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;blockquote&gt;
+&lt;p&gt;继上篇文章介绍了VPS安装shadowsocks
     
     </summary>
     
@@ -218,7 +238,7 @@
     <published>2017-05-12T04:33:41.000Z</published>
     <updated>2017-05-26T08:45:18.705Z</updated>
     
-    <content type="html"><![CDATA[<blockquote>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
 </blockquote>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a6e9d95.jpeg" alt=""></p>
@@ -307,10 +327,8 @@
     
     <summary type="html">
     
-      &lt;blockquote&gt;
-&lt;p&gt;刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&quot;https://ooo.0
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;blockquote&gt;
+&lt;p&gt;刚搞好博客，有几个大佬想让我写写教程，于是我顺便
     
     </summary>
     
@@ -334,7 +352,7 @@
     <published>2017-05-10T00:03:20.000Z</published>
     <updated>2017-05-26T01:44:48.528Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>欢迎参观我的博客</strong></p>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><strong>欢迎参观我的博客</strong></p>
 <p>本站建于我自己的vps+GitHub Pages上，<del>预计将于近期全站搬到vps上，提高访问速度</del>（最近很忙，怕不是要鸽）</p>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d50946d5dd.jpeg" alt=""></p>
 <h2 id="关于我"><a href="#关于我" class="headerlink" title="关于我"></a>关于我</h2><p>详见<a href="https://huangjiaming.com/about/">“关于”页面</a></p>
@@ -346,9 +364,8 @@
     
     <summary type="html">
     
-      &lt;p&gt;&lt;strong&gt;欢迎参观我的博客&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;本站建于我自己的vps+GitHub Pages上，&lt;del&gt;预计将于近期全站搬到vps上，提高访问速度&lt;/del&gt;（最近很忙，怕不是要鸽）&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://ooo.0o0.
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;&lt;strong&gt;欢迎参观我的博客&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;本站建于
     
     </summary>
     
