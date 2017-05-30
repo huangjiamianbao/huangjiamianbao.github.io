@@ -248,11 +248,11 @@
   </entry>
   
   <entry>
-    <title>VPS教程系列一：翻墙（shadowsocks）</title>
+    <title>VPS翻墙（shadowsocks）</title>
     <link href="https://huangjiaming.com/2017/05/12/vps1/"/>
     <id>https://huangjiaming.com/2017/05/12/vps1/</id>
     <published>2017-05-12T04:33:41.000Z</published>
-    <updated>2017-05-26T08:45:18.705Z</updated>
+    <updated>2017-05-30T02:20:18.020Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
@@ -353,8 +353,6 @@
     
       <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
     
-      <category term="教程" scheme="https://huangjiaming.com/tags/%E6%95%99%E7%A8%8B/"/>
-    
       <category term="翻墙" scheme="https://huangjiaming.com/tags/%E7%BF%BB%E5%A2%99/"/>
     
       <category term="shadowsocks" scheme="https://huangjiaming.com/tags/shadowsocks/"/>
@@ -366,7 +364,7 @@
     <link href="https://huangjiaming.com/2017/05/10/%E6%AC%A2%E8%BF%8E/"/>
     <id>https://huangjiaming.com/2017/05/10/欢迎/</id>
     <published>2017-05-10T00:03:20.000Z</published>
-    <updated>2017-05-26T01:44:48.528Z</updated>
+    <updated>2017-05-30T02:19:33.866Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><strong>欢迎参观我的博客</strong></p>
 <p>本站建于我自己的vps+GitHub Pages上，<del>预计将于近期全站搬到vps上，提高访问速度</del>（最近很忙，怕不是要鸽）</p>
