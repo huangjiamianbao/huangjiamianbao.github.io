@@ -248,11 +248,11 @@
   </entry>
   
   <entry>
-    <title>VPS翻墙（shadowsocks）</title>
+    <title>VPS翻墙教程（shadowsocks）</title>
     <link href="https://huangjiaming.com/2017/05/12/vps1/"/>
     <id>https://huangjiaming.com/2017/05/12/vps1/</id>
     <published>2017-05-12T04:33:41.000Z</published>
-    <updated>2017-05-30T02:20:18.020Z</updated>
+    <updated>2017-05-31T03:00:05.940Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
@@ -261,28 +261,29 @@
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1862601&auto=1&height=66"></iframe>
 
 <hr>
-<h1 id="理论基础"><a href="#理论基础" class="headerlink" title="理论基础"></a>理论基础</h1><h2 id="VPS？"><a href="#VPS？" class="headerlink" title="VPS？"></a>VPS？</h2><p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a7b16e4.png" alt=""></p>
-<h2 id="墙？"><a href="#墙？" class="headerlink" title="墙？"></a>墙？</h2><p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a7a7541.png" alt=""></p>
-<h2 id="翻墙？"><a href="#翻墙？" class="headerlink" title="翻墙？"></a>翻墙？</h2><p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a74af51.jpeg" alt=""></p>
-<p>绕过防火墙，使用谷歌，维基百科，<del>pornhub</del>等良心产品</p>
-<h2 id="shadowsocks"><a href="#shadowsocks" class="headerlink" title="shadowsocks"></a>shadowsocks</h2><p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a7ab208.png" alt=""></p>
-<h2 id="为什么不用其他方法？（ss的优点）"><a href="#为什么不用其他方法？（ss的优点）" class="headerlink" title="为什么不用其他方法？（ss的优点）"></a>为什么不用其他方法？（ss的优点）</h2><ul>
-<li>安全（相对于open VPN）</li>
-<li>简单（相对于黑科技）</li>
-<li>网络质量好（几乎满速）</li>
-<li>完整的控制权（相对于第三方VPN）</li>
-<li>全平台（Windows，macOS，iOS，android等）</li>
-</ul>
-<h2 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h2><ul>
-<li>DIY</li>
-<li>VPS的钱</li>
-<li>ss客户端的钱（iOS）</li>
+<h1 id="理论基础"><a href="#理论基础" class="headerlink" title="理论基础"></a>理论基础</h1><h2 id="VPS"><a href="#VPS" class="headerlink" title="VPS"></a>VPS</h2><blockquote>
+<p>虚拟专用伺服器（英语：Virtual private server，缩写为 VPS），是将一台服务器分割成多个虚拟专享服务器的服务。</p>
+</blockquote>
+<h2 id="墙"><a href="#墙" class="headerlink" title="墙"></a>墙</h2><blockquote>
+<p>防火长城（英语：Great Firewall (of China)，常用简称：GFW，中文也称中国国家防火墙，中国大陆民众俗称防火墙等），是对中华人民共和国政府在其互联网边界审查系统（包括相关行政审查系统）的统称。</p>
+</blockquote>
+<h2 id="翻墙"><a href="#翻墙" class="headerlink" title="翻墙"></a>翻墙</h2><blockquote>
+<p>突破网络审查或突破网络封锁，在中国大陆突破防火长城实行的网络审查又叫翻墙或科学上网，指绕过互联网审查封锁技术（IP封锁、端口封锁、关键词过滤、域名劫持等），实现对网络内容的访问。</p>
+</blockquote>
+<h2 id="shadowsocks"><a href="#shadowsocks" class="headerlink" title="shadowsocks"></a>shadowsocks</h2><blockquote>
+<p>shadowsocks是一种基于Socks5代理方式的网路资料加密传输套件，并采用Apache许可证、GPL、MIT许可证等多种自由软体许可协定开放原始码。</p>
+</blockquote>
+<h2 id="shadowsocks的特点"><a href="#shadowsocks的特点" class="headerlink" title="shadowsocks的特点"></a>shadowsocks的特点</h2><ul>
+<li>Shadowsocks使用自行设计的协议进行加密通信。加密算法有AES、Blowfish、IDEA、RC4等，除建立TCP连接外无需握手，每次请求只转发一个连接，因此使用起来网速较快，在移动设备上也比较省电。</li>
+<li>所有的流量都经过算法加密，允许自行选择算法，所以比较安全。</li>
+<li>Shadowsocks通过异步I/O和事件驱动程序运行，响应速度快。</li>
+<li>客户端覆盖多个主流操作系统和平台，包括Windows、OS X、Android和iOS系统和路由器（OpenWrt）等。</li>
+<li>专为移动设备和无线网络优化。</li>
 </ul>
 <hr>
 <blockquote>
 <p>如果你想使用ss翻墙，但懒于DIY，欢迎<a href="http://huangjiaming.com/about/">联系我与我合租VPS</a></p>
-<p>如果你想免费翻墙，请参阅GAE，VPN，DNS/hosts法等</p>
-<p>是有免费ss的，翻墙质量仁者见仁，智者见智</p>
+<p>如果你想免费翻墙，请参阅GAE，VPN，DNS/hosts法，免费ss等</p>
 </blockquote>
 <hr>
 <h1 id="实际操作"><a href="#实际操作" class="headerlink" title="实际操作"></a>实际操作</h1><h2 id="客户端-下载"><a href="#客户端-下载" class="headerlink" title="客户端 下载"></a>客户端 下载</h2><h3 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h3><p>参见<br><a href="https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E" target="_blank" rel="external">github</a></p>
@@ -290,8 +291,8 @@
 <h3 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h3><p>App Store中</p>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a7f0ba9.png" alt=""><br><img src="https://ooo.0o0.ooo/2017/05/18/591d52a828bc2.png" alt=""><br><img src="https://ooo.0o0.ooo/2017/05/18/591d52a88e0e8.png" alt=""></p>
 <p>个人推荐take（也是我现在用的）（自带免费ss）<br>iOS似乎目前还没有免费的ss客户端</p>
-<h3 id="android"><a href="#android" class="headerlink" title="android"></a>android</h3><p>如果已在墙外，Google Play下载Shadowsocks<br>否则，<a href="http://www.apkmirror.com/apk/max-lv/shadowsocks/shadowsocks-4-1-7-release/shadowsocks-4-1-7-android-apk-download/" target="_blank" rel="external">Shadowsocks</a></p>
-<h2 id="VPS"><a href="#VPS" class="headerlink" title="VPS"></a>VPS</h2><p>你需要一台海外（墙外）的vps<br>这里我推荐的（现在用的）是vultr的日本东京机房，当然你要说我做广告我也没办法(╯°□°）╯︵ ┻━┻<br><a href="vultr.com">vultr</a><br><a href="http://www.vultr.com/?ref=7151882" target="_blank" rel="external">如果用这个链接注册我似乎能拿到钱？</a></p>
+<h3 id="android"><a href="#android" class="headerlink" title="android"></a>android</h3><p>Google Play下载Shadowsocks<br>或在此下载<a href="http://www.apkmirror.com/apk/max-lv/shadowsocks/shadowsocks-4-1-7-release/shadowsocks-4-1-7-android-apk-download/" target="_blank" rel="external">Shadowsocks</a></p>
+<h2 id="VPS-购买"><a href="#VPS-购买" class="headerlink" title="VPS 购买"></a>VPS 购买</h2><p>你需要一台海外（墙外）的vps<br>这里我推荐的（现在用的）是vultr的日本东京机房，当然你要说我做广告我也没办法(╯°□°）╯︵ ┻━┻<br><a href="vultr.com">vultr</a><br><a href="http://www.vultr.com/?ref=7151882" target="_blank" rel="external">如果用这个链接注册我似乎能拿到钱？</a></p>
 <blockquote>
 <p>其他vps推荐参考<a href="https://www.zhihu.com/question/20800554" target="_blank" rel="external">逼乎</a></p>
 </blockquote>
@@ -312,7 +313,7 @@
 <li>密码</li>
 </ul>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a817e2e.jpeg" alt=""></p>
-<h2 id="VPS配置"><a href="#VPS配置" class="headerlink" title="VPS配置"></a>VPS配置</h2><h3 id="Windows-1"><a href="#Windows-1" class="headerlink" title="Windows"></a>Windows</h3><p><a href="http://www.putty.org/" target="_blank" rel="external">putty</a><br>安装后打开，输入IP，点击连接，弹出黑色的连接页<br>先输入用户名，回车后输入密码</p>
+<h2 id="VPS-连接"><a href="#VPS-连接" class="headerlink" title="VPS 连接"></a>VPS 连接</h2><h3 id="Windows-1"><a href="#Windows-1" class="headerlink" title="Windows"></a>Windows</h3><p><a href="http://www.putty.org/" target="_blank" rel="external">putty</a><br>安装后打开，输入IP，点击连接，弹出黑色的连接页<br>先输入用户名，回车后输入密码</p>
 <blockquote>
 <p>密码输入时没有任何显示，输入完后回车即可</p>
 <p>粘贴是右键，不是Ctrl+V</p>
@@ -320,7 +321,7 @@
 <h3 id="macOS-1"><a href="#macOS-1" class="headerlink" title="macOS"></a>macOS</h3><p>参见<br><a href="https://www.quora.com/What-is-the-equivalent-of-PuTTY-for-Mac-OS-X" target="_blank" rel="external">Quora</a><br>和Windows部分</p>
 <h3 id="iOS-1"><a href="#iOS-1" class="headerlink" title="iOS"></a>iOS</h3><p>App Store下载Termius<br>在Hosts中点击加号，选择New Hosts，如图填写</p>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a820289.jpeg" alt=""></p>
-<h3 id="android-1"><a href="#android-1" class="headerlink" title="android"></a>android</h3><p>如果已在墙外，Google Play下载ConnectBot<br>否则，<a href="http://www.apkmirror.com/apk/kenny-root-jeff-sharkey-torne-wuff-paul-evans/connectbot/connectbot-1-9-2-release/connectbot-1-9-2-android-apk-download/" target="_blank" rel="external">ConnectBot</a><br>点击加号，如图填写（IP，用户名，开始Shell会话）</p>
+<h3 id="android-1"><a href="#android-1" class="headerlink" title="android"></a>android</h3><p>Google Play下载ConnectBot<br>或在此下载<a href="http://www.apkmirror.com/apk/kenny-root-jeff-sharkey-torne-wuff-paul-evans/connectbot/connectbot-1-9-2-release/connectbot-1-9-2-android-apk-download/" target="_blank" rel="external">ConnectBot</a><br>点击加号，如图填写（IP，用户名，开始Shell会话）</p>
 <p><img src="https://ooo.0o0.ooo/2017/05/26/5927c5a319f56.jpg" alt=""></p>
 <p><img src="https://ooo.0o0.ooo/2017/05/26/5927c5d9d7c3e.jpg" alt=""></p>
 <h2 id="VPS-shadowsocks的安装"><a href="#VPS-shadowsocks的安装" class="headerlink" title="VPS shadowsocks的安装"></a>VPS shadowsocks的安装</h2><p>输入<br><figure class="highlight vim"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">wget --<span class="keyword">no</span>-check-certificate -O shadowsocks-libev.<span class="keyword">sh</span> http<span class="variable">s:</span>//raw.githubusercontent.<span class="keyword">com</span>/teddysun/shadowsocks_install/master/shadowsocks-libev.<span class="keyword">sh</span></div><div class="line">chmod +<span class="keyword">x</span> shadowsocks-libev.<span class="keyword">sh</span></div><div class="line">./shadowsocks-libev.<span class="keyword">sh</span> <span class="number">2</span>&gt;&amp;<span class="number">1</span> | tee shadowsocks-libev.<span class="built_in">log</span></div></pre></td></tr></table></figure></p>
@@ -348,10 +349,12 @@
     
     </summary>
     
-      <category term="VPS" scheme="https://huangjiaming.com/categories/VPS/"/>
+      <category term="教程" scheme="https://huangjiaming.com/categories/%E6%95%99%E7%A8%8B/"/>
     
     
       <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
+    
+      <category term="教程" scheme="https://huangjiaming.com/tags/%E6%95%99%E7%A8%8B/"/>
     
       <category term="翻墙" scheme="https://huangjiaming.com/tags/%E7%BF%BB%E5%A2%99/"/>
     
