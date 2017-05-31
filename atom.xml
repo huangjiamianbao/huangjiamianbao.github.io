@@ -249,7 +249,7 @@
     <link href="https://huangjiaming.com/2017/05/12/vps1/"/>
     <id>https://huangjiaming.com/2017/05/12/vps1/</id>
     <published>2017-05-12T04:33:41.000Z</published>
-    <updated>2017-05-31T03:00:05.940Z</updated>
+    <updated>2017-05-31T03:24:25.140Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
@@ -337,6 +337,7 @@
 <h2 id="客户端-配置"><a href="#客户端-配置" class="headerlink" title="客户端 配置"></a>客户端 配置</h2><p>以iOS take和android shadowsocks为例，其他客户端大同小异，配置好即可开始使用</p>
 <h3 id="iOS-take"><a href="#iOS-take" class="headerlink" title="iOS take"></a>iOS take</h3><p><img src="https://ooo.0o0.ooo/2017/05/18/591d54e7d7c07.jpeg" alt=""></p>
 <h3 id="android-shadowsocks"><a href="#android-shadowsocks" class="headerlink" title="android shadowsocks"></a>android shadowsocks</h3><p><img src="https://ooo.0o0.ooo/2017/05/26/5927ea7ba1088.jpg" alt=""></p>
+<h2 id="VPS-shadowsocks后期维护"><a href="#VPS-shadowsocks后期维护" class="headerlink" title="VPS shadowsocks后期维护"></a>VPS shadowsocks后期维护</h2><p>启动 <code>/etc/init.d/shadowsocks start</code><br>停止 <code>/etc/init.d/shadowsocks stop</code><br>重启 <code>/etc/init.d/shadowsocks restart</code><br>查看状态 <code>/etc/init.d/shadowsocks status</code></p>
 ]]></content>
     
     <summary type="html">
