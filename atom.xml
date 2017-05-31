@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-05-29T09:29:22.837Z</updated>
+  <updated>2017-05-31T03:47:04.696Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>“颓废 is wonderful”群 每周roll</title>
+    <link href="https://huangjiaming.com/2017/05/31/roll/"/>
+    <id>https://huangjiaming.com/2017/05/31/roll/</id>
+    <published>2017-05-31T03:38:32.000Z</published>
+    <updated>2017-05-31T03:47:04.696Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>本周roll内容：</p>
+<iframe src="http://store.steampowered.com/widget/588650/" frameborder="0" width="646" height="190"></iframe>
+
+<p>评论即可</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;本周roll内容：&lt;/p&gt;
+&lt;iframe src=&quot;http://sto
+    
+    </summary>
+    
+      <category term="其他" scheme="https://huangjiaming.com/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="roll" scheme="https://huangjiaming.com/tags/roll/"/>
+    
+  </entry>
   
   <entry>
     <title>hexo使用dplayer插入视频</title>
@@ -59,7 +86,7 @@
     <link href="https://huangjiaming.com/2017/05/27/pythonupdate/"/>
     <id>https://huangjiaming.com/2017/05/27/pythonupdate/</id>
     <published>2017-05-27T06:01:48.000Z</published>
-    <updated>2017-05-27T07:49:31.386Z</updated>
+    <updated>2017-05-31T03:36:26.447Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=467744316&auto=1&height=66"></iframe>
 
@@ -89,16 +116,14 @@
     
       <category term="python" scheme="https://huangjiaming.com/tags/python/"/>
     
-      <category term="centos" scheme="https://huangjiaming.com/tags/centos/"/>
-    
   </entry>
   
   <entry>
-    <title>梗：土豆服务器</title>
+    <title>土豆服务器</title>
     <link href="https://huangjiaming.com/2017/05/19/potatoserver/"/>
     <id>https://huangjiaming.com/2017/05/19/potatoserver/</id>
     <published>2017-05-19T07:56:50.000Z</published>
-    <updated>2017-05-19T09:07:39.005Z</updated>
+    <updated>2017-05-31T03:34:46.990Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=471968381&auto=1&height=66"></iframe>
 
@@ -168,12 +193,14 @@
     <link href="https://huangjiaming.com/2017/05/12/vps2/"/>
     <id>https://huangjiaming.com/2017/05/12/vps2/</id>
     <published>2017-05-12T11:02:59.000Z</published>
-    <updated>2017-05-31T03:11:12.483Z</updated>
+    <updated>2017-05-31T03:32:59.074Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡</p>
 </blockquote>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d51c733499.jpeg" alt=""></p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1862601&auto=1&height=66"></iframe>
+
 <hr>
 <ol>
 <li><p>如果你不是steamer<br>欢迎入坑<del>记得加我</del><br><a href="http://store.steampowered.com/" target="_blank" rel="external">Steam</a></p>
@@ -352,11 +379,11 @@
     
       <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
     
-      <category term="教程" scheme="https://huangjiaming.com/tags/%E6%95%99%E7%A8%8B/"/>
-    
       <category term="翻墙" scheme="https://huangjiaming.com/tags/%E7%BF%BB%E5%A2%99/"/>
     
       <category term="shadowsocks" scheme="https://huangjiaming.com/tags/shadowsocks/"/>
+    
+      <category term="教程" scheme="https://huangjiaming.com/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -365,7 +392,7 @@
     <link href="https://huangjiaming.com/2017/05/10/%E6%AC%A2%E8%BF%8E/"/>
     <id>https://huangjiaming.com/2017/05/10/欢迎/</id>
     <published>2017-05-10T00:03:20.000Z</published>
-    <updated>2017-05-30T02:19:33.866Z</updated>
+    <updated>2017-05-31T03:47:29.877Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><strong>欢迎参观我的博客</strong></p>
 <p>本站建于我自己的vps+GitHub Pages上，<del>预计将于近期全站搬到vps上，提高访问速度</del>（最近很忙，怕不是要鸽）</p>
