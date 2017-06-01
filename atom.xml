@@ -195,7 +195,7 @@
     <link href="https://huangjiaming.com/2017/05/12/vps2/"/>
     <id>https://huangjiaming.com/2017/05/12/vps2/</id>
     <published>2017-05-12T11:02:59.000Z</published>
-    <updated>2017-05-31T03:32:59.074Z</updated>
+    <updated>2017-06-01T06:16:06.637Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡</p>
@@ -237,8 +237,8 @@
 <p><code>mono ASF.exe</code><br>使用mono运行ASF</p>
 <p>ASF成功打开后（可能需要输入手机令牌），就可以关闭连接</p>
 <h1 id="后期维护"><a href="#后期维护" class="headerlink" title="后期维护"></a>后期维护</h1><p><code>screen -ls</code><br>查看后台</p>
-<p><code>kill 进程号</code><br>关闭后台ASF</p>
-<p>参照上一部分重启ASF</p>
+<p><code>kill 进程号</code><br>关闭后台进程</p>
+<p><code>screen -r 进程名</code><br>恢复后台进程</p>
 <h1 id="ASF高级应用"><a href="#ASF高级应用" class="headerlink" title="ASF高级应用"></a>ASF高级应用</h1><p><del>这是最新的操作</del></p>
 <ul>
 <li>自定义状态显示 </li>
