@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-05-31T12:47:10.611Z</updated>
+  <updated>2017-06-01T14:04:35.112Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -20,13 +20,13 @@
     <link href="https://huangjiaming.com/2017/05/31/roll/"/>
     <id>https://huangjiaming.com/2017/05/31/roll/</id>
     <published>2017-05-31T03:38:32.000Z</published>
-    <updated>2017-05-31T12:47:10.611Z</updated>
+    <updated>2017-06-01T14:04:35.112Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>本周roll内容：</p>
 <iframe src="http://store.steampowered.com/widget/588650/" frameborder="0" width="646" height="190"></iframe>
 
 <p>评论即可</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=447943681&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
 ]]></content>
     
     <summary type="html">
@@ -48,10 +48,10 @@
     <link href="https://huangjiaming.com/2017/05/29/dplayer/"/>
     <id>https://huangjiaming.com/2017/05/29/dplayer/</id>
     <published>2017-05-29T08:14:26.000Z</published>
-    <updated>2017-06-01T13:48:55.888Z</updated>
+    <updated>2017-06-01T14:06:28.293Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>昨天晚上<del>今天凌晨</del>准备睡觉的时候突然打算在博客上插点视频，本来打算直接用html，但是一是大部分用的是flash，二是https支持不好，在网上搜到了dplayer，可以说是不错的解决方案了。</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=29436956&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
 
 <hr>
 <p>dplayer参见：<br><a href="https://github.com/DIYgod/DPlayer" target="_blank" rel="external">dplayer的github</a><br><a href="http://dplayer.js.org/docs/#/" target="_blank" rel="external">dplayer的文档</a></p>
@@ -87,11 +87,11 @@
     <link href="https://huangjiaming.com/2017/05/27/pythonupdate/"/>
     <id>https://huangjiaming.com/2017/05/27/pythonupdate/</id>
     <published>2017-05-27T06:01:48.000Z</published>
-    <updated>2017-05-31T03:36:26.447Z</updated>
+    <updated>2017-06-01T14:05:17.513Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=467744316&auto=1&height=66"></iframe>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>之前在VPS上装了不少东西，随手装了不少版本的python。今天用yum更新mono的时候，发现yum依赖的python2.6崩了，大概是之前更新的时候没弄好，python的版本乱七八糟。尝试瞎搞失败了，于是决定回退python解决yum后再更新</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
 
-<p>之前在VPS上装了不少东西，随手装了不少版本的python。今天用yum更新mono的时候，发现yum依赖的python2.6崩了，大概是之前更新的时候没弄好，python的版本乱七八糟。尝试瞎搞失败了，于是决定回退python解决yum后再更新</p>
 <hr>
 <h1 id="python回退到2-6"><a href="#python回退到2-6" class="headerlink" title="python回退到2.6"></a>python回退到2.6</h1><figure class="highlight awk"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">rpm -qa | grep python- | grep <span class="number">2.6</span></div><div class="line">rpm -ivh --force --nodeps ftp:<span class="regexp">//mi</span>rror.switch.ch<span class="regexp">/pool/</span><span class="number">4</span><span class="regexp">/mirror/</span>scientificlinux<span class="regexp">/6.5/</span>x86_64<span class="regexp">/updates/</span>fastbugs<span class="regexp">/python-2.6.6-52.el6.x86_64.rpm</span></div></pre></td></tr></table></figure>
 <h1 id="更新python"><a href="#更新python" class="headerlink" title="更新python"></a>更新python</h1><h2 id="更新系统和开发工具集"><a href="#更新系统和开发工具集" class="headerlink" title="更新系统和开发工具集"></a>更新系统和开发工具集</h2><figure class="highlight nginx"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line"><span class="attribute">yum</span> -y update </div><div class="line">yum groupinstall -y <span class="string">'development tools'</span></div></pre></td></tr></table></figure>
@@ -106,7 +106,7 @@
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marg
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;之前在VPS上装了不少东西，随手装了不少版本的python。今天用yum更
     
     </summary>
     
@@ -124,9 +124,9 @@
     <link href="https://huangjiaming.com/2017/05/19/potatoserver/"/>
     <id>https://huangjiaming.com/2017/05/19/potatoserver/</id>
     <published>2017-05-19T07:56:50.000Z</published>
-    <updated>2017-05-31T03:34:46.990Z</updated>
+    <updated>2017-06-01T14:05:59.111Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=471968381&auto=1&height=66"></iframe>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
 
 <p><del>适度玩梗，有益身体健康</del></p>
 <h1 id="本意"><a href="#本意" class="headerlink" title="本意"></a>本意</h1><blockquote>
@@ -192,13 +192,13 @@
     <link href="https://huangjiaming.com/2017/05/12/vps2/"/>
     <id>https://huangjiaming.com/2017/05/12/vps2/</id>
     <published>2017-05-12T11:02:59.000Z</published>
-    <updated>2017-06-01T06:16:06.637Z</updated>
+    <updated>2017-06-01T14:03:53.244Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡</p>
 </blockquote>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d51c733499.jpeg" alt=""></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1862601&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
 
 <hr>
 <ol>
@@ -275,13 +275,13 @@
     <link href="https://huangjiaming.com/2017/05/12/vps1/"/>
     <id>https://huangjiaming.com/2017/05/12/vps1/</id>
     <published>2017-05-12T04:33:41.000Z</published>
-    <updated>2017-05-31T03:24:25.140Z</updated>
+    <updated>2017-06-01T14:03:22.170Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><blockquote>
 <p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
 </blockquote>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a6e9d95.jpeg" alt=""></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=1862601&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
 
 <hr>
 <h1 id="理论基础"><a href="#理论基础" class="headerlink" title="理论基础"></a>理论基础</h1><h2 id="VPS"><a href="#VPS" class="headerlink" title="VPS"></a>VPS</h2><blockquote>
@@ -391,7 +391,7 @@
     <link href="https://huangjiaming.com/2017/05/10/%E6%AC%A2%E8%BF%8E/"/>
     <id>https://huangjiaming.com/2017/05/10/欢迎/</id>
     <published>2017-05-10T00:03:20.000Z</published>
-    <updated>2017-05-31T03:47:29.877Z</updated>
+    <updated>2017-06-01T14:02:45.922Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><strong>欢迎参观我的博客</strong></p>
 <p>本站建于我自己的vps+GitHub Pages上，<del>预计将于近期全站搬到vps上，提高访问速度</del>（最近很忙，怕不是要鸽）</p>
@@ -400,7 +400,7 @@
 <h2 id="本站的日志"><a href="#本站的日志" class="headerlink" title="本站的日志"></a>本站的日志</h2><p>详见<a href="https://huangjiaming.com/history/">“历史”页面</a></p>
 <hr>
 <p><em>欢迎在<a href="https://huangjiaming.com/guestbook/">“留言”页面</a>留言</em><br><em>欢迎提交友链</em></p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=447943681&auto=1&height=66"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
 ]]></content>
     
     <summary type="html">
