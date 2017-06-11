@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-10T14:42:32.366Z</updated>
+  <updated>2017-06-11T03:49:55.873Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://huangjiaming.com/2017/06/10/bunchkeysbundle-6/"/>
     <id>https://huangjiaming.com/2017/06/10/bunchkeysbundle-6/</id>
     <published>2017-06-10T14:01:14.000Z</published>
-    <updated>2017-06-10T14:42:32.366Z</updated>
+    <updated>2017-06-11T03:49:55.873Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>Bunch Keys Bundle #6<br>$0.99 16games</p>
 <a id="more"></a>
@@ -59,10 +59,8 @@
     
     </summary>
     
-      <category term="慈善包" scheme="https://huangjiaming.com/categories/%E6%85%88%E5%96%84%E5%8C%85/"/>
+      <category term="Steam" scheme="https://huangjiaming.com/categories/Steam/"/>
     
-    
-      <category term="Bunch Keys Bundle" scheme="https://huangjiaming.com/tags/Bunch-Keys-Bundle/"/>
     
       <category term="慈善包" scheme="https://huangjiaming.com/tags/%E6%85%88%E5%96%84%E5%8C%85/"/>
     
@@ -73,7 +71,7 @@
     <link href="https://huangjiaming.com/2017/06/08/payday2/"/>
     <id>https://huangjiaming.com/2017/06/08/payday2/</id>
     <published>2017-06-08T06:14:01.000Z</published>
-    <updated>2017-06-09T00:21:59.812Z</updated>
+    <updated>2017-06-11T04:05:55.706Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>仅以此文表达对PAYDAY 2的纪念和对一年前怀念</p>
 <a id="more"></a>
@@ -112,21 +110,19 @@
     
     </summary>
     
-      <category term="steam" scheme="https://huangjiaming.com/categories/steam/"/>
+      <category term="Steam" scheme="https://huangjiaming.com/categories/Steam/"/>
     
-    
-      <category term="steam" scheme="https://huangjiaming.com/tags/steam/"/>
     
       <category term="游戏" scheme="https://huangjiaming.com/tags/%E6%B8%B8%E6%88%8F/"/>
     
   </entry>
   
   <entry>
-    <title>“颓废 is wonderful”群 每周roll</title>
+    <title>Steam交流群 每周roll</title>
     <link href="https://huangjiaming.com/2017/06/04/roll/"/>
     <id>https://huangjiaming.com/2017/06/04/roll/</id>
     <published>2017-06-04T03:38:32.000Z</published>
-    <updated>2017-06-08T06:10:12.653Z</updated>
+    <updated>2017-06-11T04:08:52.873Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>本周roll内容：</p>
 <p><img src="https://ooo.0o0.ooo/2017/06/03/59329281943be.jpg" alt=""></p>
@@ -154,7 +150,7 @@
     <link href="https://huangjiaming.com/2017/06/02/steamtools/"/>
     <id>https://huangjiaming.com/2017/06/02/steamtools/</id>
     <published>2017-06-02T10:17:16.000Z</published>
-    <updated>2017-06-02T14:03:58.711Z</updated>
+    <updated>2017-06-11T04:09:49.679Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>今天逛论坛的时候偶然看到一篇好贴，详细介绍了一些steam相关的网站/插件/软件等，我也来介绍<del>水</del>一下</p>
 <a id="more"></a>
@@ -201,10 +197,10 @@
     
     </summary>
     
-      <category term="steam" scheme="https://huangjiaming.com/categories/steam/"/>
+      <category term="Steam" scheme="https://huangjiaming.com/categories/Steam/"/>
     
     
-      <category term="steam" scheme="https://huangjiaming.com/tags/steam/"/>
+      <category term="Steam平台" scheme="https://huangjiaming.com/tags/Steam%E5%B9%B3%E5%8F%B0/"/>
     
   </entry>
   
@@ -213,7 +209,7 @@
     <link href="https://huangjiaming.com/2017/05/29/dplayer/"/>
     <id>https://huangjiaming.com/2017/05/29/dplayer/</id>
     <published>2017-05-29T08:14:26.000Z</published>
-    <updated>2017-06-01T14:06:28.293Z</updated>
+    <updated>2017-06-11T04:01:51.178Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>昨天晚上<del>今天凌晨</del>准备睡觉的时候突然打算在博客上插点视频，本来打算直接用html，但是一是大部分用的是flash，二是https支持不好，在网上搜到了dplayer，可以说是不错的解决方案了。</p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
@@ -238,12 +234,10 @@
     
     </summary>
     
-      <category term="教程" scheme="https://huangjiaming.com/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="技术" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="hexo" scheme="https://huangjiaming.com/tags/hexo/"/>
-    
-      <category term="dplayer" scheme="https://huangjiaming.com/tags/dplayer/"/>
     
   </entry>
   
@@ -252,7 +246,7 @@
     <link href="https://huangjiaming.com/2017/05/27/pythonupdate/"/>
     <id>https://huangjiaming.com/2017/05/27/pythonupdate/</id>
     <published>2017-05-27T06:01:48.000Z</published>
-    <updated>2017-06-01T14:05:17.513Z</updated>
+    <updated>2017-06-11T04:07:55.802Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>之前在VPS上装了不少东西，随手装了不少版本的python。今天用yum更新mono的时候，发现yum依赖的python2.6崩了，大概是之前更新的时候没弄好，python的版本乱七八糟。尝试瞎搞失败了，于是决定回退python解决yum后再更新</p>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
@@ -275,12 +269,10 @@
     
     </summary>
     
-      <category term="VPS" scheme="https://huangjiaming.com/categories/VPS/"/>
+      <category term="技术" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
-    
-      <category term="python" scheme="https://huangjiaming.com/tags/python/"/>
     
   </entry>
   
@@ -289,7 +281,7 @@
     <link href="https://huangjiaming.com/2017/05/19/potatoserver/"/>
     <id>https://huangjiaming.com/2017/05/19/potatoserver/</id>
     <published>2017-05-19T07:56:50.000Z</published>
-    <updated>2017-06-01T14:25:45.722Z</updated>
+    <updated>2017-06-11T04:07:03.117Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><del>玩梗虽好，可不要贪杯哦</del></p>
 <a id="more"></a>
@@ -317,12 +309,10 @@
     
     </summary>
     
-      <category term="梗" scheme="https://huangjiaming.com/categories/%E6%A2%97/"/>
+      <category term="网事杂谈" scheme="https://huangjiaming.com/categories/%E7%BD%91%E4%BA%8B%E6%9D%82%E8%B0%88/"/>
     
     
       <category term="梗" scheme="https://huangjiaming.com/tags/%E6%A2%97/"/>
-    
-      <category term="土豆服务器" scheme="https://huangjiaming.com/tags/%E5%9C%9F%E8%B1%86%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     
   </entry>
   
@@ -331,7 +321,7 @@
     <link href="https://huangjiaming.com/2017/05/13/vps3/"/>
     <id>https://huangjiaming.com/2017/05/13/vps3/</id>
     <published>2017-05-13T11:31:09.000Z</published>
-    <updated>2017-06-02T05:18:42.371Z</updated>
+    <updated>2017-06-11T04:12:16.479Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>终于，继介绍了翻墙和云挂卡后，这是最后一篇VPS教程<del>终于快填完坑了</del></p>
 <a id="more"></a>
@@ -368,7 +358,7 @@
     
     </summary>
     
-      <category term="教程" scheme="https://huangjiaming.com/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="技术" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="hexo" scheme="https://huangjiaming.com/tags/hexo/"/>
@@ -382,7 +372,7 @@
     <link href="https://huangjiaming.com/2017/05/12/vps2/"/>
     <id>https://huangjiaming.com/2017/05/12/vps2/</id>
     <published>2017-05-12T11:02:59.000Z</published>
-    <updated>2017-06-02T09:49:33.845Z</updated>
+    <updated>2017-06-11T04:11:53.418Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡</p>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d51c733499.jpeg" alt=""></p>
@@ -442,18 +432,12 @@
     
     </summary>
     
-      <category term="教程" scheme="https://huangjiaming.com/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="技术" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
     
-      <category term="教程" scheme="https://huangjiaming.com/tags/%E6%95%99%E7%A8%8B/"/>
-    
-      <category term="mono" scheme="https://huangjiaming.com/tags/mono/"/>
-    
-      <category term="ASF" scheme="https://huangjiaming.com/tags/ASF/"/>
-    
-      <category term="云挂卡" scheme="https://huangjiaming.com/tags/%E4%BA%91%E6%8C%82%E5%8D%A1/"/>
+      <category term="Steam平台" scheme="https://huangjiaming.com/tags/Steam%E5%B9%B3%E5%8F%B0/"/>
     
   </entry>
   
@@ -462,7 +446,7 @@
     <link href="https://huangjiaming.com/2017/05/12/vps1/"/>
     <id>https://huangjiaming.com/2017/05/12/vps1/</id>
     <published>2017-05-12T04:33:41.000Z</published>
-    <updated>2017-06-01T14:26:03.975Z</updated>
+    <updated>2017-06-11T04:11:11.013Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a6e9d95.jpeg" alt=""></p>
@@ -557,16 +541,10 @@
     
     </summary>
     
-      <category term="教程" scheme="https://huangjiaming.com/categories/%E6%95%99%E7%A8%8B/"/>
+      <category term="技术" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
-    
-      <category term="翻墙" scheme="https://huangjiaming.com/tags/%E7%BF%BB%E5%A2%99/"/>
-    
-      <category term="shadowsocks" scheme="https://huangjiaming.com/tags/shadowsocks/"/>
-    
-      <category term="教程" scheme="https://huangjiaming.com/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
@@ -575,7 +553,7 @@
     <link href="https://huangjiaming.com/2017/05/10/%E6%AC%A2%E8%BF%8E/"/>
     <id>https://huangjiaming.com/2017/05/10/欢迎/</id>
     <published>2017-05-10T00:03:20.000Z</published>
-    <updated>2017-06-01T14:02:45.922Z</updated>
+    <updated>2017-06-11T04:12:49.214Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><strong>欢迎参观我的博客</strong></p>
 <p>本站建于我自己的vps+GitHub Pages上，<del>预计将于近期全站搬到vps上，提高访问速度</del>（最近很忙，怕不是要鸽）</p>
@@ -597,7 +575,7 @@
       <category term="其他" scheme="https://huangjiaming.com/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-      <category term="欢迎" scheme="https://huangjiaming.com/tags/%E6%AC%A2%E8%BF%8E/"/>
+      <category term="其他" scheme="https://huangjiaming.com/tags/%E5%85%B6%E4%BB%96/"/>
     
   </entry>
   
