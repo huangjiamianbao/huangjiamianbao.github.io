@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-11T03:49:55.873Z</updated>
+  <updated>2017-06-11T07:47:04.072Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Steam交流群 每周roll</title>
+    <link href="https://huangjiaming.com/2017/06/11/roll/"/>
+    <id>https://huangjiaming.com/2017/06/11/roll/</id>
+    <published>2017-06-11T15:46:32.000Z</published>
+    <updated>2017-06-11T07:47:04.072Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>本周roll内容：<br><strong>THE WALL 墙*2</strong></p>
+<iframe src="http://store.steampowered.com/widget/635070/" frameborder="0" width="300" height="200"></iframe>
+
+<p>评论即可</p>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;本周roll内容：&lt;br&gt;&lt;strong&gt;THE WALL 墙*2&lt;/st
+    
+    </summary>
+    
+      <category term="其他" scheme="https://huangjiaming.com/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+      <category term="roll" scheme="https://huangjiaming.com/tags/roll/"/>
+    
+  </entry>
   
   <entry>
     <title>Bunch Keys Bundle #6</title>
@@ -114,33 +141,6 @@
     
     
       <category term="游戏" scheme="https://huangjiaming.com/tags/%E6%B8%B8%E6%88%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Steam交流群 每周roll</title>
-    <link href="https://huangjiaming.com/2017/06/04/roll/"/>
-    <id>https://huangjiaming.com/2017/06/04/roll/</id>
-    <published>2017-06-04T03:38:32.000Z</published>
-    <updated>2017-06-11T07:45:30.449Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>本周roll内容：<br><strong>THE WALL 墙*2</strong></p>
-<iframe src="http://store.steampowered.com/widget/635070/" frameborder="0" width="300" height="200"></iframe>
-
-<p>评论即可</p>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;本周roll内容：&lt;br&gt;&lt;strong&gt;THE WALL 墙*2&lt;/st
-    
-    </summary>
-    
-      <category term="其他" scheme="https://huangjiaming.com/categories/%E5%85%B6%E4%BB%96/"/>
-    
-    
-      <category term="roll" scheme="https://huangjiaming.com/tags/roll/"/>
     
   </entry>
   
