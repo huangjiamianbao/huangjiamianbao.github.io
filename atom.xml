@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-13T14:19:45.264Z</updated>
+  <updated>2017-06-13T14:24:13.575Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="https://huangjiaming.com/2017/06/13/markdown/"/>
     <id>https://huangjiaming.com/2017/06/13/markdown/</id>
     <published>2017-06-13T13:22:00.000Z</published>
-    <updated>2017-06-13T14:19:45.264Z</updated>
+    <updated>2017-06-13T14:24:13.575Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>Markdown的语法简介和推荐编辑器</p>
 <a id="more"></a>
@@ -70,9 +70,13 @@
 <li>内容</li>
 <li>内容</li>
 </ol>
-<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p>格式： <code>&gt; 引用内容</code><br>示例： &gt; 引用内容</p>
+<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p>格式： <code>&gt; 引用内容</code><br>示例：</p>
+<blockquote>
+<p>引用内容</p>
+</blockquote>
 <h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><p>格式：<br><figure class="highlight clean"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">`代码句`</div></pre></td></tr></table></figure></p>
-<p>代码段<br><figure class="highlight clean"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">```</div><div class="line">示例：</div><div class="line">`代码句`</div></pre></td></tr></table></figure></p>
+<figure class="highlight clean"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">```</div><div class="line">代码段</div></pre></td></tr></table></figure>
+<figure class="highlight clean"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line"></div><div class="line">示例：</div><div class="line">`代码句`</div></pre></td></tr></table></figure>
 <p>代码段<br>```</p>
 ]]></content>
     
