@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-15T10:06:12.682Z</updated>
+  <updated>2017-06-15T11:56:02.752Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -20,18 +20,33 @@
     <link href="https://huangjiaming.com/2017/06/15/qiandao/"/>
     <id>https://huangjiaming.com/2017/06/15/qiandao/</id>
     <published>2017-06-15T10:06:12.000Z</published>
-    <updated>2017-06-15T10:06:12.682Z</updated>
+    <updated>2017-06-15T11:56:02.752Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><a id="more"></a>
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>没打错，是qiandao不是签到</p>
+<a id="more"></a>
+<iframe frameborder="no" border="0" marginwidth="0" marginhight="0" width="330" height="450" src="//music.163.com/outchainplayer?type=0&id=157137810&auto=1&height=430"></iframe>
+
+<p>之前因为某些网站老是忘记签到<del>签到按钮藏得很深的A站和网易云音乐</del>以及不愿意下个臃肿的app来签到<del>百度贴吧</del>，想看看能不能在VPS上搞个自动签到。</p>
+<p>当然最后没有搞，不然这篇文章就应该在“技术”分类下并且打着“VPS”的标签了而不是在“安利”分类下。原因是发现已经有大佬写了出来并且提供了服务。</p>
+<p>如果想直接用大佬的服务比较简单，访问<a href="https://qiandao.today" target="_blank" rel="external">qiandao</a>即可。</p>
+<blockquote>
+<p>部分使用cookie的签到需要Chrome浏览器和插件“GetCookies”</p>
+<p>插件参见<a href="https://github.com/acgotaku/GetCookies/blob/master/README.md" target="_blank" rel="external">Github</a>和<a href="https://chrome.google.com/webstore/detail/cookies-get-assistant/ljjpkibacifkfolehlgaolibbnlapkme" target="_blank" rel="external">Chrome商店</a></p>
+<p>别忘了翻墙</p>
+</blockquote>
+<p>如果想自己搞也可以，参见<a href="https://github.com/binux/qiandao/blob/master/README.md" target="_blank" rel="external">Github</a>，原谅我实在是懒得搞了。</p>
+<blockquote>
+<p>虽然大佬说不能在VPS上搞，但Issues中似乎有成功情况并有教程，请自行探索</p>
+</blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
-&lt;iframe frameborder=&quot;n
+      &lt;p&gt;没打错，是qiandao不是签到&lt;/p&gt;
     
     </summary>
+    
+      <category term="安利" scheme="https://huangjiaming.com/categories/%E5%AE%89%E5%88%A9/"/>
     
     
   </entry>
