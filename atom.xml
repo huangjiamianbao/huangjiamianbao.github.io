@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-15T11:56:02.752Z</updated>
+  <updated>2017-06-15T12:01:14.259Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="https://huangjiaming.com/2017/06/15/qiandao/"/>
     <id>https://huangjiaming.com/2017/06/15/qiandao/</id>
     <published>2017-06-15T10:06:12.000Z</published>
-    <updated>2017-06-15T11:56:02.752Z</updated>
+    <updated>2017-06-15T12:01:14.259Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>没打错，是qiandao不是签到</p>
 <a id="more"></a>
-<iframe frameborder="no" border="0" marginwidth="0" marginhight="0" width="330" height="450" src="//music.163.com/outchainplayer?type=0&id=157137810&auto=1&height=430"></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
 
 <p>之前因为某些网站老是忘记签到<del>签到按钮藏得很深的A站和网易云音乐</del>以及不愿意下个臃肿的app来签到<del>百度贴吧</del>，想看看能不能在VPS上搞个自动签到。</p>
 <p>当然最后没有搞，不然这篇文章就应该在“技术”分类下并且打着“VPS”的标签了而不是在“安利”分类下。原因是发现已经有大佬写了出来并且提供了服务。</p>
