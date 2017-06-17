@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-15T12:01:14.259Z</updated>
+  <updated>2017-06-17T02:49:11.145Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,53 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Steam近日被墙</title>
+    <link href="https://huangjiaming.com/2017/06/17/steamgfw/"/>
+    <id>https://huangjiaming.com/2017/06/17/steamgfw/</id>
+    <published>2017-06-17T01:45:21.000Z</published>
+    <updated>2017-06-17T02:49:11.145Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>101，103和ERR_CONNECTION_RESET的原因，解决办法和评论</p>
+<a id="more"></a>
+<iframe frameborder="no" border="0" marginwidth="0" marginhight="0" width="330" height="450" src="//music.163.com/outchainplayer?type=0&id=157137810&auto=1&height=430"></iframe>
+
+<h1 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h1><ol>
+<li>Steam并未全站https</li>
+<li>一个Steam组使用了敏感词</li>
+<li>Steam被墙</li>
+</ol>
+<p>本次Steam被墙的罪魁祸首是一个Steam组，<a href="http://steamcommunity.com/groups/mohaxu1s" target="_blank" rel="external">Steam组：膜蛤续命喜加1S</a>，由于Steam社区部分并未使用https，GFW侦测到关键词从而导致Steam被墙。电脑端Steam报错101，103，手机端报错ERR_CONNECTION_RESET。</p>
+<p>每次访问该Steam组和该Steam组的鉴赏家的页面都会导致Steam短暂被墙。</p>
+<p>不是什么qqprotect进程<del>腾讯实力背锅</del>和其他一些无稽之谈</p>
+<h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h1><ul>
+<li>彻底停止访问有关这个Steam组的页面</li>
+<li>更换DNS，HOSTS</li>
+<li>翻墙访问Steam <em>切忌翻墙购买游戏，除非想体验非低价区的价格</em></li>
+<li><del>让G胖从夏威夷回来全站使用https</del></li>
+<li><del>让Steam客服解散这个组</del></li>
+<li><del>去组页面骂人让他们改名</del></li>
+</ul>
+<p>有关改名的问题该Steam组已知道，但拒绝改名并三番五次更换管理员，看来是死了心不改名了。</p>
+<h1 id="评论"><a href="#评论" class="headerlink" title="评论"></a>评论</h1><p>我原以为能接受花钱买单机游戏的玩家已经是高素质玩家了，没想到真是打破三观。建了个Steam组就开始暴力膜，看看鉴赏家写的评测，哪一个不是暴力膜？就这些东西也能叫评测？看得我尴尬癌都犯了。</p>
+<p>之前说过，玩梗适度，尤其是这种梗。私下里膜一下差不多就行了，写个段子大家笑笑也无所谓，敢在没加密的网站上暴力膜也是666，简直丢人。通知了管理员之后仍然不改名，真是大开眼界。</p>
+<p>另外这事在查清之前网上也带了不少节奏，最典型的就是qqprotect进程，腾讯幕后黑手之类的。Steam玩家是整天黑腾讯游戏，但黑也要有理有据的黑，说抄袭是没得洗。但这次说腾讯的锅一点证据没有，也有无脑跟风黑。还是要提高自己的姿势水平啊。</p>
+<p>Steam本来就处在灰色地位上，不少国内被禁的游戏都有。到现在还没变成谷歌无非就是代理DOTA2和CS:GO的完美世界以及杉果背后的中电博亚。最近腾讯又要搞单机游戏平台wegame，在这个时间点上更应该小心谨慎。毕竟我们都不想看到Steam被墙的那一天。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;101，103和ERR_CONNECTION_RESET的原因，解决办法和评论&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Steam" scheme="https://huangjiaming.com/categories/Steam/"/>
+    
+    
+      <category term="Steam平台" scheme="https://huangjiaming.com/tags/Steam%E5%B9%B3%E5%8F%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>qiandao</title>
