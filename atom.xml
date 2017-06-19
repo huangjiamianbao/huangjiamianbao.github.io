@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-17T06:46:26.071Z</updated>
+  <updated>2017-06-19T03:42:02.776Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -16,11 +16,32 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>e3</title>
+    <link href="https://huangjiaming.com/2017/06/18/e3/"/>
+    <id>https://huangjiaming.com/2017/06/18/e3/</id>
+    <published>2017-06-18T19:42:02.000Z</published>
+    <updated>2017-06-19T03:42:02.776Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><a id="more"></a>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="450" src="//music.163.com/outchain/player?type=0&id=157137810&auto=1&height=430"></iframe>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+&lt;iframe frameborder=&quot;n
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>Steam交流群 每周roll</title>
     <link href="https://huangjiaming.com/2017/06/17/roll/"/>
     <id>https://huangjiaming.com/2017/06/17/roll/</id>
-    <published>2017-06-17T14:43:44.000Z</published>
-    <updated>2017-06-17T06:46:26.071Z</updated>
+    <published>2017-06-17T06:43:44.000Z</published>
+    <updated>2017-06-19T03:58:03.036Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>本周roll内容：<br><em>Flood of Light</em></p>
 <iframe src="http://store.steampowered.com/widget/606480/?t=%E9%9B%A8%E7%BA%AA%E6%98%AF%E4%B8%80%E6%AC%BE%E7%94%BB%E9%9D%A2%E7%B2%BE%E7%BE%8E%E3%80%81%E9%9F%B3%E4%B9%90%E5%8A%A8%E4%BA%BA%E7%9A%84%E4%BC%91%E9%97%B2%E8%A7%A3%E8%B0%9C%E6%B8%B8%E6%88%8F%E3%80%82" frameborder="0" width="300" height="200"></iframe>
@@ -38,15 +59,13 @@
       <category term="其他" scheme="https://huangjiaming.com/categories/%E5%85%B6%E4%BB%96/"/>
     
     
-      <category term="roll" scheme="https://huangjiaming.com/tags/roll/"/>
-    
   </entry>
   
   <entry>
     <title>Steam近日被墙</title>
-    <link href="https://huangjiaming.com/2017/06/17/steamgfw/"/>
-    <id>https://huangjiaming.com/2017/06/17/steamgfw/</id>
-    <published>2017-06-17T01:45:21.000Z</published>
+    <link href="https://huangjiaming.com/2017/06/16/steamgfw/"/>
+    <id>https://huangjiaming.com/2017/06/16/steamgfw/</id>
+    <published>2017-06-16T17:45:21.000Z</published>
     <updated>2017-06-17T02:53:03.381Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>101,103和ERR_CONNECTION_RESET的原因，解决办法和评论</p>
@@ -93,7 +112,7 @@
     <title>qiandao</title>
     <link href="https://huangjiaming.com/2017/06/15/qiandao/"/>
     <id>https://huangjiaming.com/2017/06/15/qiandao/</id>
-    <published>2017-06-15T10:06:12.000Z</published>
+    <published>2017-06-15T02:06:12.000Z</published>
     <updated>2017-06-15T12:01:14.259Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>没打错，是qiandao不是签到</p>
@@ -129,7 +148,7 @@
     <title>杰瑞超级8号包</title>
     <link href="https://huangjiaming.com/2017/06/15/jerry8/"/>
     <id>https://huangjiaming.com/2017/06/15/jerry8/</id>
-    <published>2017-06-15T09:03:44.000Z</published>
+    <published>2017-06-15T01:03:44.000Z</published>
     <updated>2017-06-15T09:40:37.067Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>¥25.5 112games</p>
@@ -166,8 +185,8 @@
     <title>F站开箱心得 By Canp0y</title>
     <link href="https://huangjiaming.com/2017/06/13/farmskins/"/>
     <id>https://huangjiaming.com/2017/06/13/farmskins/</id>
-    <published>2017-06-13T15:59:30.000Z</published>
-    <updated>2017-06-13T17:35:25.719Z</updated>
+    <published>2017-06-13T07:59:30.000Z</published>
+    <updated>2017-06-19T03:57:36.595Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>本文最初来源于大佬Canp0y在Steam交流群中对F站开箱心得的分享，在我请求转载后，Canp0y又特意写了一篇总结。因此本文主要包含Canp0y的总结以及他在群里的分享。非常感谢。</p>
 <a id="more"></a>
@@ -213,15 +232,13 @@
       <category term="网事杂谈" scheme="https://huangjiaming.com/categories/%E7%BD%91%E4%BA%8B%E6%9D%82%E8%B0%88/"/>
     
     
-      <category term="开箱" scheme="https://huangjiaming.com/tags/%E5%BC%80%E7%AE%B1/"/>
-    
   </entry>
   
   <entry>
     <title>轻量级标记语言Markdown</title>
     <link href="https://huangjiaming.com/2017/06/13/markdown/"/>
     <id>https://huangjiaming.com/2017/06/13/markdown/</id>
-    <published>2017-06-13T13:22:00.000Z</published>
+    <published>2017-06-13T05:22:00.000Z</published>
     <updated>2017-06-15T10:06:56.518Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>Markdown的语法简介和推荐编辑器</p>
@@ -297,7 +314,7 @@
     <title>Go Go Bundle Limited #4 #6 Cleverweek Bundle #1</title>
     <link href="https://huangjiaming.com/2017/06/12/GoGoBundleLimited-4-6CleverweekBundle-1/"/>
     <id>https://huangjiaming.com/2017/06/12/GoGoBundleLimited-4-6CleverweekBundle-1/</id>
-    <published>2017-06-12T12:52:55.000Z</published>
+    <published>2017-06-12T04:52:55.000Z</published>
     <updated>2017-06-12T13:34:28.859Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>Go Go Bundle最近要疯，虽然包看起来不便宜，但买大商屯的每包只要¥2-¥2.1，而且我一个也没绿<del>所以没有附赠的key了。。。</del></p>
@@ -361,7 +378,7 @@
     <title>Bunch Keys Bundle #6</title>
     <link href="https://huangjiaming.com/2017/06/10/bunchkeysbundle-6/"/>
     <id>https://huangjiaming.com/2017/06/10/bunchkeysbundle-6/</id>
-    <published>2017-06-10T14:01:14.000Z</published>
+    <published>2017-06-10T06:01:14.000Z</published>
     <updated>2017-06-11T03:49:55.873Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>Bunch Keys Bundle #6<br>$0.99 16games</p>
@@ -410,10 +427,10 @@
   
   <entry>
     <title>PAYDAY 2：回头却不是从前</title>
-    <link href="https://huangjiaming.com/2017/06/08/payday2/"/>
-    <id>https://huangjiaming.com/2017/06/08/payday2/</id>
-    <published>2017-06-08T06:14:01.000Z</published>
-    <updated>2017-06-11T04:05:55.706Z</updated>
+    <link href="https://huangjiaming.com/2017/06/07/payday2/"/>
+    <id>https://huangjiaming.com/2017/06/07/payday2/</id>
+    <published>2017-06-07T22:14:01.000Z</published>
+    <updated>2017-06-19T03:59:13.143Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>仅以此文表达对PAYDAY 2的纪念和对一年前怀念</p>
 <a id="more"></a>
@@ -455,15 +472,13 @@
       <category term="Steam" scheme="https://huangjiaming.com/categories/Steam/"/>
     
     
-      <category term="游戏" scheme="https://huangjiaming.com/tags/%E6%B8%B8%E6%88%8F/"/>
-    
   </entry>
   
   <entry>
     <title>Steam相关实用网站/插件/软件</title>
     <link href="https://huangjiaming.com/2017/06/02/steamtools/"/>
     <id>https://huangjiaming.com/2017/06/02/steamtools/</id>
-    <published>2017-06-02T10:17:16.000Z</published>
+    <published>2017-06-02T02:17:16.000Z</published>
     <updated>2017-06-11T04:09:49.679Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>今天逛论坛的时候偶然看到一篇好贴，详细介绍了一些steam相关的网站/插件/软件等，我也来介绍<del>水</del>一下</p>
@@ -522,7 +537,7 @@
     <title>hexo使用dplayer插入视频</title>
     <link href="https://huangjiaming.com/2017/05/29/dplayer/"/>
     <id>https://huangjiaming.com/2017/05/29/dplayer/</id>
-    <published>2017-05-29T08:14:26.000Z</published>
+    <published>2017-05-29T00:14:26.000Z</published>
     <updated>2017-06-11T04:01:51.178Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>昨天晚上<del>今天凌晨</del>准备睡觉的时候突然打算在博客上插点视频，本来打算直接用html，但是一是大部分用的是flash，二是https支持不好，在网上搜到了dplayer，可以说是不错的解决方案了。</p>
@@ -557,9 +572,9 @@
   
   <entry>
     <title>centos中python的重装与升级</title>
-    <link href="https://huangjiaming.com/2017/05/27/pythonupdate/"/>
-    <id>https://huangjiaming.com/2017/05/27/pythonupdate/</id>
-    <published>2017-05-27T06:01:48.000Z</published>
+    <link href="https://huangjiaming.com/2017/05/26/pythonupdate/"/>
+    <id>https://huangjiaming.com/2017/05/26/pythonupdate/</id>
+    <published>2017-05-26T22:01:48.000Z</published>
     <updated>2017-06-11T04:07:55.802Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>之前在VPS上装了不少东西，随手装了不少版本的python。今天用yum更新mono的时候，发现yum依赖的python2.6崩了，大概是之前更新的时候没弄好，python的版本乱七八糟。尝试瞎搞失败了，于是决定回退python解决yum后再更新</p>
@@ -592,9 +607,9 @@
   
   <entry>
     <title>土豆服务器</title>
-    <link href="https://huangjiaming.com/2017/05/19/potatoserver/"/>
-    <id>https://huangjiaming.com/2017/05/19/potatoserver/</id>
-    <published>2017-05-19T07:56:50.000Z</published>
+    <link href="https://huangjiaming.com/2017/05/18/potatoserver/"/>
+    <id>https://huangjiaming.com/2017/05/18/potatoserver/</id>
+    <published>2017-05-18T23:56:50.000Z</published>
     <updated>2017-06-11T07:44:53.562Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><del>玩梗虽好，可不要贪杯哦</del></p>
@@ -634,7 +649,7 @@
     <title>VPS+GitHub pages+hexo搭建博客</title>
     <link href="https://huangjiaming.com/2017/05/13/vps3/"/>
     <id>https://huangjiaming.com/2017/05/13/vps3/</id>
-    <published>2017-05-13T11:31:09.000Z</published>
+    <published>2017-05-13T03:31:09.000Z</published>
     <updated>2017-06-11T04:12:16.479Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>终于，继介绍了翻墙和云挂卡后，这是最后一篇VPS教程<del>终于快填完坑了</del></p>
@@ -685,7 +700,7 @@
     <title>VPS使用mono+ASF云挂卡</title>
     <link href="https://huangjiaming.com/2017/05/12/vps2/"/>
     <id>https://huangjiaming.com/2017/05/12/vps2/</id>
-    <published>2017-05-12T11:02:59.000Z</published>
+    <published>2017-05-12T03:02:59.000Z</published>
     <updated>2017-06-11T04:11:53.418Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡</p>
@@ -757,9 +772,9 @@
   
   <entry>
     <title>VPS翻墙教程（shadowsocks）</title>
-    <link href="https://huangjiaming.com/2017/05/12/vps1/"/>
-    <id>https://huangjiaming.com/2017/05/12/vps1/</id>
-    <published>2017-05-12T04:33:41.000Z</published>
+    <link href="https://huangjiaming.com/2017/05/11/vps1/"/>
+    <id>https://huangjiaming.com/2017/05/11/vps1/</id>
+    <published>2017-05-11T20:33:41.000Z</published>
     <updated>2017-06-11T04:11:11.013Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
@@ -864,9 +879,9 @@
   
   <entry>
     <title>欢迎</title>
-    <link href="https://huangjiaming.com/2017/05/10/%E6%AC%A2%E8%BF%8E/"/>
-    <id>https://huangjiaming.com/2017/05/10/欢迎/</id>
-    <published>2017-05-10T00:03:20.000Z</published>
+    <link href="https://huangjiaming.com/2017/05/09/%E6%AC%A2%E8%BF%8E/"/>
+    <id>https://huangjiaming.com/2017/05/09/欢迎/</id>
+    <published>2017-05-09T16:03:20.000Z</published>
     <updated>2017-06-11T04:20:17.475Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><strong>欢迎参观我的博客</strong></p>
