@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-23T16:23:02.314Z</updated>
+  <updated>2017-06-23T17:12:30.988Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>shadowsocks-go的多账户配置</title>
+    <link href="https://huangjiaming.com/2017/06/23/ss-go/"/>
+    <id>https://huangjiaming.com/2017/06/23/ss-go/</id>
+    <published>2017-06-23T08:43:40.000Z</published>
+    <updated>2017-06-23T17:12:30.988Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>为了简单地实现多账户，把自己原来用的libev版ss换成了go版。</p>
+<a id="more"></a>
+<h1 id="go版ss安装"><a href="#go版ss安装" class="headerlink" title="go版ss安装"></a>go版ss安装</h1><figure class="highlight vim"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">wget --<span class="keyword">no</span>-check-certificate -O shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> http<span class="variable">s:</span>//raw.githubusercontent.<span class="keyword">com</span>/teddysun/shadowsocks_install/master</div><div class="line">shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> chmod +<span class="keyword">x</span> shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> ./shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> <span class="number">2</span>&gt;&amp;<span class="number">1</span> | tee shadowsocks-<span class="keyword">go</span>.<span class="built_in">log</span></div></pre></td></tr></table></figure>
+<h1 id="多账户配置"><a href="#多账户配置" class="headerlink" title="多账户配置"></a>多账户配置</h1><p>配置文件位置：<code>/etc/shadowsocks/config.json</code><br>示例：<br><figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">	<span class="attr">"port_password"</span>: &#123;</div><div class="line">		<span class="attr">"端口1"</span>: <span class="string">"密码1"</span>,</div><div class="line">		<span class="attr">"端口n"</span>: <span class="string">"密码n"</span></div><div class="line">	&#125;,</div><div class="line">	<span class="attr">"method"</span>: <span class="string">"aes-128-cfb"</span>,</div><div class="line">	<span class="attr">"timeout"</span>: <span class="number">600</span></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
+<h1 id="防火墙设置"><a href="#防火墙设置" class="headerlink" title="防火墙设置"></a>防火墙设置</h1><p>位置：<code>/etc/sysconfig/iptables</code><br>添加ss所用端口：加入如下两句*n<br><figure class="highlight pf"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">-A INPUT -m <span class="keyword">state</span> --state NEW -m tcp -p tcp --dport 端口号 -j ACCEPT</div><div class="line">-A INPUT -m <span class="keyword">state</span> --state NEW -m udp -p udp --dport 端口号 -j ACCEPT</div></pre></td></tr></table></figure></p>
+<hr>
+<p><code>service iptables restart</code>重启防火墙<br><code>/etc/init.d/shadowsocks restart</code>重启ss</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;为了简单地实现多账户，把自己原来用的libev版ss换成了go版。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
+    
+      <category term="shadowsocks" scheme="https://huangjiaming.com/tags/shadowsocks/"/>
+    
+  </entry>
   
   <entry>
     <title>E3总结：Steam部分</title>
@@ -1186,7 +1217,7 @@
     <link href="https://huangjiaming.com/2017/05/11/vps1/"/>
     <id>https://huangjiaming.com/2017/05/11/vps1/</id>
     <published>2017-05-11T20:33:41.000Z</published>
-    <updated>2017-06-23T16:29:18.251Z</updated>
+    <updated>2017-06-23T17:11:21.647Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
 <p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a6e9d95.jpeg" alt=""></p>
@@ -1284,6 +1315,8 @@
     
       <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
     
+      <category term="shadowsocks" scheme="https://huangjiaming.com/tags/shadowsocks/"/>
+    
   </entry>
   
   <entry>
@@ -1291,7 +1324,7 @@
     <link href="https://huangjiaming.com/2017/05/09/%E6%AC%A2%E8%BF%8E/"/>
     <id>https://huangjiaming.com/2017/05/09/欢迎/</id>
     <published>2017-05-09T16:03:20.000Z</published>
-    <updated>2017-06-23T11:50:50.233Z</updated>
+    <updated>2017-06-23T16:30:00.881Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><strong>欢迎参观我的博客</strong></p>
 <p>本站建于我自己的vps+GitHub Pages上，<del>预计将于近期全站搬到vps上，提高访问速度</del>（最近很忙，怕不是要鸽）</p>
