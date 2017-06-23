@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-23T17:18:04.512Z</updated>
+  <updated>2017-06-23T17:20:17.702Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -20,11 +20,11 @@
     <link href="https://huangjiaming.com/2017/06/23/ss-go/"/>
     <id>https://huangjiaming.com/2017/06/23/ss-go/</id>
     <published>2017-06-23T08:43:40.000Z</published>
-    <updated>2017-06-23T17:18:04.512Z</updated>
+    <updated>2017-06-23T17:20:17.702Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>为了简单地实现多账户，把自己原来用的libev版ss换成了go版。</p>
 <a id="more"></a>
-<h1 id="go版ss安装"><a href="#go版ss安装" class="headerlink" title="go版ss安装"></a>go版ss安装</h1><figure class="highlight vim"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">wget --<span class="keyword">no</span>-check-certificate -O shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> http<span class="variable">s:</span>//raw.githubusercontent.<span class="keyword">com</span>/teddysun/shadowsocks_install/mastershadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span></div><div class="line">chmod +<span class="keyword">x</span> shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> </div><div class="line">./shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> <span class="number">2</span>&gt;&amp;<span class="number">1</span> | tee shadowsocks-<span class="keyword">go</span>.<span class="built_in">log</span></div></pre></td></tr></table></figure>
+<h1 id="go版ss安装"><a href="#go版ss安装" class="headerlink" title="go版ss安装"></a>go版ss安装</h1><figure class="highlight vim"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">wget --<span class="keyword">no</span>-check-certificate -O shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> http<span class="variable">s:</span>//raw.githubusercontent.<span class="keyword">com</span>/teddysun/shadowsocks_install/master/shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span></div><div class="line">chmod +<span class="keyword">x</span> shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> </div><div class="line">./shadowsocks-<span class="keyword">go</span>.<span class="keyword">sh</span> <span class="number">2</span>&gt;&amp;<span class="number">1</span> | tee shadowsocks-<span class="keyword">go</span>.<span class="built_in">log</span></div></pre></td></tr></table></figure>
 <h1 id="多账户配置"><a href="#多账户配置" class="headerlink" title="多账户配置"></a>多账户配置</h1><p>配置文件位置：<code>/etc/shadowsocks/config.json</code><br>示例：<br><figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">	<span class="attr">"port_password"</span>: &#123;</div><div class="line">		<span class="attr">"端口1"</span>: <span class="string">"密码1"</span>,</div><div class="line">		<span class="attr">"端口n"</span>: <span class="string">"密码n"</span></div><div class="line">	&#125;,</div><div class="line">	<span class="attr">"method"</span>: <span class="string">"aes-128-cfb"</span>,</div><div class="line">	<span class="attr">"timeout"</span>: <span class="number">600</span></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
 <h1 id="防火墙设置"><a href="#防火墙设置" class="headerlink" title="防火墙设置"></a>防火墙设置</h1><p>位置：<code>/etc/sysconfig/iptables</code><br>添加ss所用端口：加入如下两句*n<br><figure class="highlight pf"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">-A INPUT -m <span class="keyword">state</span> --state NEW -m tcp -p tcp --dport 端口号 -j ACCEPT</div><div class="line">-A INPUT -m <span class="keyword">state</span> --state NEW -m udp -p udp --dport 端口号 -j ACCEPT</div></pre></td></tr></table></figure></p>
 <hr>
