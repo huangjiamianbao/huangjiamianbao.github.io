@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-24T01:22:28.629Z</updated>
+  <updated>2017-06-24T01:55:01.103Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -20,9 +20,9 @@
     <link href="https://huangjiaming.com/2017/06/23/20170624/"/>
     <id>https://huangjiaming.com/2017/06/23/20170624/</id>
     <published>2017-06-23T09:21:36.000Z</published>
-    <updated>2017-06-24T01:22:28.629Z</updated>
+    <updated>2017-06-24T01:55:01.103Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>更换了Disqus评论系统，将留言页面改为水区，删除了几乎所有的网易云音乐外链，关闭了一些页面的评论</p>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>更换了Disqus评论系统，将留言页面改为水区，删除了几乎所有的网易云音乐外链，关闭了一些页面的评论，重写了<a href="https://huangjiaming.com/2017/05/09/欢迎/">欢迎</a></p>
 <a id="more"></a>
 <h1 id="Disqus"><a href="#Disqus" class="headerlink" title="Disqus"></a>Disqus</h1><p>之前博客使用的是网易云跟帖，让我放弃的原因主要有三个。</p>
 <ul>
@@ -34,11 +34,12 @@
 <h1 id="留言页面改为水区"><a href="#留言页面改为水区" class="headerlink" title="留言页面改为水区"></a>留言页面改为水区</h1><p>详见<a href="https://huangjiaming.com/water/">水区</a></p>
 <h1 id="删除了几乎所有的网易云外链"><a href="#删除了几乎所有的网易云外链" class="headerlink" title="删除了几乎所有的网易云外链"></a>删除了几乎所有的网易云外链</h1><p>提高访问速度，因为网易云外链加载过慢。但保留了一个，在<a href="https://huangjiaming.com/about/">关于页面</a>。</p>
 <h1 id="关闭了一些页面的评论"><a href="#关闭了一些页面的评论" class="headerlink" title="关闭了一些页面的评论"></a>关闭了一些页面的评论</h1><p>同样是为了提高访问速度，关闭了一些不需要评论的页面的评论，如<a href="https://huangjiaming.com/about/">关于页面</a>和<a href="https://huangjiaming.com/about/">历史页面</a>。</p>
+<h1 id="重写了欢迎"><a href="#重写了欢迎" class="headerlink" title="重写了欢迎"></a>重写了欢迎</h1><p>详见<a href="https://huangjiaming.com/2017/05/09/欢迎/">欢迎</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;更换了Disqus评论系统，将留言页面改为水区，删除了几乎所有的网易云音乐外链，关闭了一些页面的评论&lt;/p&gt;
+      &lt;p&gt;更换了Disqus评论系统，将留言页面改为水区，删除了几乎所有的网易云音乐外链，关闭了一些页面的评论，重写了&lt;a href=&quot;https://huangjiaming.com/2017/05/09/欢迎/&quot;&gt;欢迎&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
@@ -1179,10 +1180,9 @@
     <link href="https://huangjiaming.com/2017/05/12/vps2/"/>
     <id>https://huangjiaming.com/2017/05/12/vps2/</id>
     <published>2017-05-12T03:02:59.000Z</published>
-    <updated>2017-06-23T16:29:46.560Z</updated>
+    <updated>2017-06-24T01:27:36.133Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡</p>
-<p><img src="https://ooo.0o0.ooo/2017/05/18/591d51c733499.jpeg" alt=""></p>
 <hr>
 <ol>
 <li><p>如果你不是steamer<br>欢迎入坑<del>记得加我</del><br><a href="http://store.steampowered.com/" target="_blank" rel="external">Steam</a></p>
@@ -1251,10 +1251,9 @@
     <link href="https://huangjiaming.com/2017/05/11/vps1/"/>
     <id>https://huangjiaming.com/2017/05/11/vps1/</id>
     <published>2017-05-11T20:33:41.000Z</published>
-    <updated>2017-06-23T17:11:21.647Z</updated>
+    <updated>2017-06-24T01:27:19.539Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>刚搞好博客，有几个大佬想让我写写教程，于是我顺便把博客相关的东西都写写，由于我比较弱，教程尽量采用能省就省，不求甚解的风格，有问题欢迎在评论区提出或私下联系我</p>
-<p><img src="https://ooo.0o0.ooo/2017/05/18/591d52a6e9d95.jpeg" alt=""></p>
 <hr>
 <h1 id="理论基础"><a href="#理论基础" class="headerlink" title="理论基础"></a>理论基础</h1><h2 id="VPS"><a href="#VPS" class="headerlink" title="VPS"></a>VPS</h2><blockquote>
 <p>虚拟专用伺服器（英语：Virtual private server，缩写为 VPS），是将一台服务器分割成多个虚拟专享服务器的服务。</p>
