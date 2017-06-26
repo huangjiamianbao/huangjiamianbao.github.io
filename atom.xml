@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-25T11:36:45.090Z</updated>
+  <updated>2017-06-26T12:35:18.390Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,33 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我们搞了一个Steam鉴赏家</title>
+    <link href="https://huangjiaming.com/2017/06/26/tuifei/"/>
+    <id>https://huangjiaming.com/2017/06/26/tuifei/</id>
+    <published>2017-06-26T03:46:58.000Z</published>
+    <updated>2017-06-26T12:35:18.390Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>为什么会变成这样呢……第一次有了喜欢的Steam组。有了能写一辈子评测的鉴赏家。两件快乐事情重合在一起。而这两份快乐，又给我带来更多的快乐。得到的，本该是像梦境一般幸福的时间……但是，为什么，会变成这样呢……</p>
+<a id="more"></a>
+<p>之所以搞了这个鉴赏家，是因为某天下午，我在Steam交流群里突发奇想，打算搞个鉴赏家写评测。没想到反响还不错，于是就有了这个鉴赏家。</p>
+<p>这是我们的<a href="http://steamcommunity.com/groups/tuifeiiswonderful#curation" target="_blank" rel="external">鉴赏家</a>，虽然不能保持更新频率，但希望这些评测能作为剁手的一部分参考。今天我们已经发了第一篇评测，希望大佬们能在鉴赏家页面点个关注，非常感谢。</p>
+<p>如果你想加入我们的话，欢迎加入我们的<a href="http://steamcommunity.com/groups/tuifeiiswonderful" target="_blank" rel="external">Steam组</a>，当然，我们的Steam交流群457094352也欢迎你的加入。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;为什么会变成这样呢……第一次有了喜欢的Steam组。有了能写一辈子评测的鉴赏家。两件快乐事情重合在一起。而这两份快乐，又给我带来更多的快乐。得到的，本该是像梦境一般幸福的时间……但是，为什么，会变成这样呢……&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="Steam" scheme="https://huangjiaming.com/categories/Steam/"/>
+    
+    
+      <category term="Steam平台" scheme="https://huangjiaming.com/tags/Steam%E5%B9%B3%E5%8F%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>2017Steam夏季特惠剁手</title>
@@ -1209,77 +1236,6 @@
     
     
       <category term="梗" scheme="https://huangjiaming.com/tags/%E6%A2%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VPS使用mono+ASF云挂卡</title>
-    <link href="https://huangjiaming.com/2017/05/12/vps2/"/>
-    <id>https://huangjiaming.com/2017/05/12/vps2/</id>
-    <published>2017-05-12T03:02:59.000Z</published>
-    <updated>2017-06-24T01:27:36.133Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VPS，但VPS显然不能只用来翻墙，本篇教程介绍的是使用mono运行ASF在VPS上云挂卡</p>
-<hr>
-<ol>
-<li><p>如果你不是steamer<br>欢迎入坑<del>记得加我</del><br><a href="http://store.steampowered.com/" target="_blank" rel="external">Steam</a></p>
-<blockquote>
-<p>Steam是美国电子游戏商威尔乌于2003年9月12日推出的数位发行、数字版权管理及社交系统，它用于数位软体及游戏的发行销售与后续更新，支援Windows、OS X和Linux等作业系统，是目前全球最大的PC电子游戏平台。</p>
-</blockquote>
-</li>
-<li><p>steam集换式卡牌<br>详见<a href="https://steamcommunity.com/tradingcards/faq/Steam?l=schinese" target="_blank" rel="external">steam集换式卡牌</a></p>
-</li>
-<li><p>本地ASF挂卡<br>详见<br>（入门）<a href="https://steamcn.com/t187323-1-1" target="_blank" rel="external">ASF图形配置程序设置</a><br>（高级）<a href="https://steamcn.com/t176404-1-1" target="_blank" rel="external">ArchiSteamFarm(ASF)掛卡配置與命令教程</a><br>（自定义）<a href="https://steamcn.com/t187703-1-1" target="_blank" rel="external">ASF官方维基中文版</a></p>
-<blockquote>
-<p>提示：steamcn是非官方站点</p>
-</blockquote>
-</li>
-</ol>
-<hr>
-<p>附上我自己的ASF配置文件，仅供参考 huangjiamianbao.json<br><figure class="highlight json"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div><div class="line">31</div><div class="line">32</div><div class="line">33</div><div class="line">34</div><div class="line">35</div><div class="line">36</div><div class="line">37</div><div class="line">38</div><div class="line">39</div><div class="line">40</div></pre></td><td class="code"><pre><div class="line">&#123;</div><div class="line">  <span class="attr">"AcceptGifts"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"CardDropsRestricted"</span>: <span class="literal">true</span>,</div><div class="line">  <span class="attr">"CustomGamePlayedWhileFarming"</span>: <span class="string">"ASF云挂卡中 "</span>,</div><div class="line">  <span class="attr">"CustomGamePlayedWhileIdle"</span>: <span class="string">"ASF云挂卡已完成"</span>,</div><div class="line">  <span class="attr">"DismissInventoryNotifications"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"Enabled"</span>: <span class="literal">true</span>,</div><div class="line">  <span class="attr">"FarmingOrder"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"FarmOffline"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"GamesPlayedWhileIdle"</span>: [</div><div class="line">    <span class="number">206440</span>,</div><div class="line">    <span class="number">730</span>,</div><div class="line">    <span class="number">385800</span>,</div><div class="line">    <span class="number">333600</span>,</div><div class="line">    <span class="number">420110</span>,</div><div class="line">    <span class="number">602520</span>  </div><div class="line">  ],</div><div class="line">  <span class="attr">"HandleOfflineMessages"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"IsBotAccount"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"LootableTypes"</span>: [</div><div class="line">    <span class="number">1</span>,</div><div class="line">    <span class="number">3</span>,</div><div class="line">    <span class="number">5</span></div><div class="line">  ],</div><div class="line">  <span class="attr">"PasswordFormat"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"Paused"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"RedeemingPreferences"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"SendOnFarmingFinished"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"SendTradePeriod"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"ShutdownOnFarmingFinished"</span>: <span class="literal">false</span>,</div><div class="line">  <span class="attr">"SteamLogin"</span>: <span class="string">"huangjiamianbao"</span>,</div><div class="line">  <span class="attr">"SteamMasterClanID"</span>: <span class="number">0</span>,</div><div class="line">  <span class="attr">"SteamParentalPIN"</span>: <span class="string">"0"</span>,</div><div class="line">  <span class="attr">"SteamPassword"</span>: <span class="string">"我的steam密码"</span>,</div><div class="line">  <span class="attr">"SteamTradeToken"</span>: <span class="literal">null</span>,</div><div class="line">  <span class="attr">"SteamUserPermissions"</span>: &#123;</div><div class="line">    <span class="attr">"76561198384518469"</span>: <span class="number">3</span></div><div class="line">  &#125;,</div><div class="line">  <span class="attr">"TradingPreferences"</span>: <span class="number">1</span></div><div class="line">&#125;</div></pre></td></tr></table></figure></p>
-<hr>
-<h1 id="安装mono（以centos6为例）"><a href="#安装mono（以centos6为例）" class="headerlink" title="安装mono（以centos6为例）"></a>安装mono（以centos6为例）</h1><p>ASF在Windows上运行需要.NET，而在centos下则需要mono</p>
-<figure class="highlight arduino"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">yum install yum-utils</div><div class="line">rpm --<span class="keyword">import</span> <span class="string">"http://keyserver.ubuntu.com/pks/lookup?op=get&amp;search=0x3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF"</span></div><div class="line">yum-<span class="built_in">config</span>-manager --add-repo http:<span class="comment">//download.mono-project.com/repo/centos6/</span></div></pre></td></tr></table></figure>
-<p><code>yum install mono-complete</code></p>
-<p>检查<code>mono -V</code></p>
-<p>参见<a href="http://www.mono-project.com/download/" target="_blank" rel="external">Mono</a></p>
-<h1 id="上传ASF"><a href="#上传ASF" class="headerlink" title="上传ASF"></a>上传ASF</h1><p>上传ASF.exe和config文件夹到VPS</p>
-<h2 id="Windows"><a href="#Windows" class="headerlink" title="Windows"></a>Windows</h2><p>FlashFXP，官网疑似gg，自行下载<br>在站点管理器中填写好信息后上传</p>
-<h2 id="android"><a href="#android" class="headerlink" title="android"></a>android</h2><p>Google Play下载AndFTP<br>或在此下载<a href="http://www.apkmirror.com/apk/lysesoft/andftp-your-ftp-client/andftp-your-ftp-client-4-3-release/andftp-ftp-client-4-3-android-apk-download/" target="_blank" rel="external">AndFTP</a></p>
-<p>填写好域名，类型，用户名，密码后上传</p>
-<p><img src="https://ooo.0o0.ooo/2017/05/26/59282ff9180bb.jpg" alt=""></p>
-<h2 id="其他系统"><a href="#其他系统" class="headerlink" title="其他系统"></a>其他系统</h2><p>未知</p>
-<h1 id="mono运行ASF"><a href="#mono运行ASF" class="headerlink" title="mono运行ASF"></a>mono运行ASF</h1><p><code>screen -S asf</code><br>后台运行ASF</p>
-<p><code>cd ASF</code><br>打开ASF目录</p>
-<p><code>mono ASF.exe</code><br>使用mono运行ASF</p>
-<p>ASF成功打开后（可能需要输入手机令牌），就可以关闭连接</p>
-<h1 id="后期维护"><a href="#后期维护" class="headerlink" title="后期维护"></a>后期维护</h1><p><code>screen -ls</code><br>查看后台</p>
-<p><code>kill 进程号</code><br>关闭后台进程</p>
-<p><code>screen -r 进程名</code><br>恢复后台进程</p>
-<h1 id="ASF高级应用"><a href="#ASF高级应用" class="headerlink" title="ASF高级应用"></a>ASF高级应用</h1><p><del>这是最新的操作</del></p>
-<ul>
-<li>自定义状态显示 </li>
-<li>挂游戏时长</li>
-<li>自动批量激活游戏key</li>
-<li>等</li>
-</ul>
-<p><img src="https://ooo.0o0.ooo/2017/05/26/592833c628ceb.jpg" alt=""></p>
-<p><img src="https://ooo.0o0.ooo/2017/05/26/592833c639a48.jpg" alt=""></p>
-<p><img src="https://ooo.0o0.ooo/2017/05/26/592833c64f0b8.jpg" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;继上篇文章介绍了VPS安装shadowsocks翻墙后，我们就有了一台VP
-    
-    </summary>
-    
-      <category term="技术" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
-    
-      <category term="Steam平台" scheme="https://huangjiaming.com/tags/Steam%E5%B9%B3%E5%8F%B0/"/>
     
   </entry>
   
