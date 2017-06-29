@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-06-26T12:35:18.390Z</updated>
+  <updated>2017-06-29T13:33:06.231Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20170629tyloo</title>
+    <link href="https://huangjiaming.com/2017/06/29/20170629tyloo/"/>
+    <id>https://huangjiaming.com/2017/06/29/20170629tyloo/</id>
+    <published>2017-06-29T05:28:49.000Z</published>
+    <updated>2017-06-29T13:33:06.231Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>从热身开始看到结束，Tyloo还是gg了，22:19。</p>
+<a id="more"></a>
+<p>赛前大部分人，包括我，都觉得Tyloo会以大比分输掉。我还下了$14的Liquid，要是Liquid赢就含泪收菜，要是Tyloo赢就当支持中国csgo。没想到，虽然输了，但是我觉得尽力了，虽败犹荣。</p>
+<p>从开局的7:3追到8:10，再僵持到15:15进入加时，第一场加时硬生生打到18:18，没想到还是在第二场加时功亏一篑22:19。没有开始之前想象的血虐，Tyloo尽了自己的最大努力。中间甚至几次翻盘让我看到了希望，无奈还是水平差距。</p>
+<p>还是来瞎分析一下，目前Tyloo的缺点还是老生常谈的投掷物，但不是之前的干拉。开局该扔扔，一番操作之后发现回防/突破的时候没烟没闪，就迎着头皮开始1换1。以及投掷物的时机把握的不好，扔完半天才开始进，大概是摆设。不管怎样，枪还是真的刚，看到了好几次1Vn刷屏。</p>
+<p>每次输了网上就开始骂，但其实心中还是希望能赢，毕竟这也是唯一的希望。预选赛3胜出现，今天第一次机会失去了，还是希望接下来能力挽狂澜。</p>
+<p>另外，Tyloo进Major我就roll贴纸，先奶一口。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;从热身开始看到结束，Tyloo还是gg了，22:19。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="网事杂谈" scheme="https://huangjiaming.com/categories/%E7%BD%91%E4%BA%8B%E6%9D%82%E8%B0%88/"/>
+    
+    
+      <category term="电子竞技" scheme="https://huangjiaming.com/tags/%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80/"/>
+    
+  </entry>
   
   <entry>
     <title>我们搞了一个Steam鉴赏家</title>
@@ -1198,44 +1227,6 @@
     
     
       <category term="VPS" scheme="https://huangjiaming.com/tags/VPS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>土豆服务器</title>
-    <link href="https://huangjiaming.com/2017/05/18/potatoserver/"/>
-    <id>https://huangjiaming.com/2017/05/18/potatoserver/</id>
-    <published>2017-05-18T23:56:50.000Z</published>
-    <updated>2017-06-23T16:26:34.226Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p><del>玩梗虽好，可不要贪杯哦</del></p>
-<a id="more"></a>
-<h1 id="本意"><a href="#本意" class="headerlink" title="本意"></a>本意</h1><blockquote>
-<p>我们回溯到2000年，一位名为佛瑞德·怀特的男子创造了一台采用5个马铃薯作为动力的Web服务器，这台奇怪的服务器每秒钟仅可以处理0.2个页面请求，也就是说大概5秒钟才能处理一个完整的用户请求，这样的速度确实不值得恭维。最终怀特放弃了这台服务器，不过他的主要原因不是忍受不了服务器的性能，而是“再也忍受不了马铃薯的腐烂”。</p>
-</blockquote>
-<p>（据考证）</p>
-<h1 id="传送门2"><a href="#传送门2" class="headerlink" title="传送门2"></a>传送门2</h1><p>出自于《传送门2》的人工智能GLaDOS被移植到一个马铃薯电池上运作，导致性能大减。</p>
-<iframe src="http://store.steampowered.com/widget/620/7877/?t=%E4%BD%93%E9%AA%8Csource%E5%BC%95%E6%93%8E%E7%8B%AC%E6%9C%89%E7%9A%843D%E7%9C%A9%E6%99%95" frameborder="0" width="300" height="200"></iframe>
-
-<p><del>玩别的游戏一点事没有的我，传送门1半小时吐了，传送门2坚持了一个多小时也gg了</del></p>
-<h1 id="EA和育碧"><a href="#EA和育碧" class="headerlink" title="EA和育碧"></a>EA和育碧</h1><p>因为EA的游戏平台origin、育碧的游戏平台uplay<del>playu</del>以及部分育碧游戏糟糕的网络质量被黑为土豆服务器</p>
-<p><img src="https://ooo.0o0.ooo/2017/05/19/591eac387d1a0.png" alt=""></p>
-<hr>
-<p><img src="https://ooo.0o0.ooo/2017/05/19/591eac3b30a64.jpg" alt=""></p>
-<hr>
-<p><img src="https://ooo.0o0.ooo/2017/05/19/591eac3b7a74b.jpg" alt=""></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;del&gt;玩梗虽好，可不要贪杯哦&lt;/del&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="网事杂谈" scheme="https://huangjiaming.com/categories/%E7%BD%91%E4%BA%8B%E6%9D%82%E8%B0%88/"/>
-    
-    
-      <category term="梗" scheme="https://huangjiaming.com/tags/%E6%A2%97/"/>
     
   </entry>
   
