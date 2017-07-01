@@ -58,7 +58,7 @@ $('.btn_click_load').click(function() {
 });
 $.ajax({
   url: 'https://disqus.com/favicon.ico',
-  timeout: 3000,
+  timeout: 1,
   type: 'GET',
   success: (function() {
     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
