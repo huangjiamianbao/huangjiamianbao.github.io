@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-07-01T01:47:53.042Z</updated>
+  <updated>2017-07-02T01:42:53.779Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Steam交流群 每周roll</title>
+    <link href="https://huangjiaming.com/2017/07/02/Steam%E4%BA%A4%E6%B5%81%E7%BE%A4%E6%AF%8F%E5%91%A8roll/"/>
+    <id>https://huangjiaming.com/2017/07/02/Steam交流群每周roll/</id>
+    <published>2017-07-02T06:43:44.000Z</published>
+    <updated>2017-07-02T01:42:53.779Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>本周roll内容：<em>Ultimate Chicken Horse</em><br>由于夏季特惠，本周提前到7.5</p>
+<iframe src="http://store.steampowered.com/widget/386940/" frameborder="0" width="646" height="190"></iframe>
+
+<p>评论即可</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;本周roll内容：&lt;em&gt;Ultimate Chicken Horse&lt;/
+    
+    </summary>
+    
+      <category term="其他" scheme="https://huangjiaming.com/categories/%E5%85%B6%E4%BB%96/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Major预选赛Day2：TyLoo复仇</title>
@@ -134,30 +158,6 @@
     </summary>
     
       <category term="Steam平台" scheme="https://huangjiaming.com/categories/Steam%E5%B9%B3%E5%8F%B0/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Steam交流群 每周roll</title>
-    <link href="https://huangjiaming.com/2017/06/24/roll/"/>
-    <id>https://huangjiaming.com/2017/06/24/roll/</id>
-    <published>2017-06-24T06:43:44.000Z</published>
-    <updated>2017-06-24T09:33:54.274Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>本周roll内容：<br><em>Cities:Skylines Deluxe Edition</em></p>
-<iframe src="http://store.steampowered.com/widget/255710/62701/?t=%20" frameborder="0" width="300" height="200"></iframe>
-
-<p>评论即可</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;本周roll内容：&lt;br&gt;&lt;em&gt;Cities:Skylines Delu
-    
-    </summary>
-    
-      <category term="其他" scheme="https://huangjiaming.com/categories/%E5%85%B6%E4%BB%96/"/>
     
     
   </entry>
