@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-07-07T11:36:18.433Z</updated>
+  <updated>2017-07-07T11:37:17.867Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Steam游戏自动分类</title>
+    <link href="https://huangjiaming.com/2017/07/07/Steam%E6%B8%B8%E6%88%8F%E8%87%AA%E5%8A%A8%E5%88%86%E7%B1%BB/"/>
+    <id>https://huangjiaming.com/2017/07/07/Steam游戏自动分类/</id>
+    <published>2017-07-07T03:37:17.000Z</published>
+    <updated>2017-07-07T11:37:17.867Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><a id="more"></a>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;a id=&quot;more&quot;&gt;&lt;/a&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Steam交流群 每周roll</title>
@@ -44,7 +64,7 @@
     <link href="https://huangjiaming.com/2017/06/30/Major%E9%A2%84%E9%80%89%E8%B5%9BDay2%EF%BC%9ATyLoo%E5%A4%8D%E4%BB%87/"/>
     <id>https://huangjiaming.com/2017/06/30/Major预选赛Day2：TyLoo复仇/</id>
     <published>2017-06-30T17:40:46.000Z</published>
-    <updated>2017-07-01T01:47:53.042Z</updated>
+    <updated>2017-07-07T12:03:04.850Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>TyLoo 16-14 复仇Renegades</p>
 <a id="more"></a>
@@ -63,8 +83,6 @@
       <category term="游戏" scheme="https://huangjiaming.com/categories/%E6%B8%B8%E6%88%8F/"/>
     
     
-      <category term="电子竞技" scheme="https://huangjiaming.com/tags/%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80/"/>
-    
       <category term="Major预选赛" scheme="https://huangjiaming.com/tags/Major%E9%A2%84%E9%80%89%E8%B5%9B/"/>
     
   </entry>
@@ -74,7 +92,7 @@
     <link href="https://huangjiaming.com/2017/06/29/Major%E9%A2%84%E9%80%89%E8%B5%9BDay1%EF%BC%9ATyLoo%E8%99%BD%E8%B4%A5%E7%8A%B9%E8%8D%A3/"/>
     <id>https://huangjiaming.com/2017/06/29/Major预选赛Day1：TyLoo虽败犹荣/</id>
     <published>2017-06-29T05:28:49.000Z</published>
-    <updated>2017-07-01T02:15:37.085Z</updated>
+    <updated>2017-07-07T12:02:28.571Z</updated>
     
     <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>从热身开始看到结束，TyLoo还是gg了，22:19。</p>
 <a id="more"></a>
@@ -93,8 +111,6 @@
     
       <category term="游戏" scheme="https://huangjiaming.com/categories/%E6%B8%B8%E6%88%8F/"/>
     
-    
-      <category term="电子竞技" scheme="https://huangjiaming.com/tags/%E7%94%B5%E5%AD%90%E7%AB%9E%E6%8A%80/"/>
     
       <category term="Major预选赛" scheme="https://huangjiaming.com/tags/Major%E9%A2%84%E9%80%89%E8%B5%9B/"/>
     
@@ -1179,41 +1195,6 @@
     
       <category term="Steam平台" scheme="https://huangjiaming.com/categories/Steam%E5%B9%B3%E5%8F%B0/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>hexo使用dplayer插入视频</title>
-    <link href="https://huangjiaming.com/2017/05/29/hexo%E4%BD%BF%E7%94%A8dplayer%E6%8F%92%E5%85%A5%E8%A7%86%E9%A2%91/"/>
-    <id>https://huangjiaming.com/2017/05/29/hexo使用dplayer插入视频/</id>
-    <published>2017-05-29T00:14:26.000Z</published>
-    <updated>2017-06-23T16:21:11.191Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>昨天晚上<del>今天凌晨</del>准备睡觉的时候突然打算在博客上插点视频，本来打算直接用html，但是一是大部分用的是flash，二是https支持不好，在网上搜到了dplayer，可以说是不错的解决方案了。</p>
-<hr>
-<p>dplayer参见：<br><a href="https://github.com/DIYgod/DPlayer" target="_blank" rel="external">dplayer的github</a><br><a href="http://dplayer.js.org/docs/#/" target="_blank" rel="external">dplayer的文档</a></p>
-<p>当然还有大佬移植到了hexo的插件，非常感谢<br>参见：<a href="https://github.com/NextMoe/hexo-tag-dplayer" target="_blank" rel="external">dplayer hexo插件的github</a></p>
-<p>安装好后在文章中直接调用即可</p>
-<hr>
-<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> hexo-tag-dplayer <span class="comment">--save</span></div></pre></td></tr></table></figure>
-<h1 id="调用"><a href="#调用" class="headerlink" title="调用"></a>调用</h1><p>在文章中使用<br><figure class="highlight django"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="xml"></span><span class="template-tag">&#123;% <span class="name">dplayer</span> key=value ... %&#125;</span><span class="xml"></span></div></pre></td></tr></table></figure></p>
-<p>来调用</p>
-<p>key：<br><figure class="highlight vhdl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">'autoplay</span>': autoplay video, <span class="keyword">not</span> supported by mobile browsers</div><div class="line"><span class="symbol">'theme</span>': theme color, <span class="keyword">default</span>: #b7daff</div><div class="line"><span class="symbol">'loop</span>': <span class="keyword">loop</span> play music, <span class="keyword">default</span>: <span class="literal">true</span></div><div class="line"><span class="symbol">'lang</span>': language, `zh` <span class="keyword">for</span> Chinese, `en` <span class="keyword">for</span> English, <span class="keyword">default</span>: Navigator language</div><div class="line"><span class="symbol">'screenshot</span>':  enable screenshot <span class="keyword">function</span>, <span class="keyword">default</span>: <span class="literal">false</span>, NOTICE: <span class="keyword">if</span> set it <span class="keyword">to</span> <span class="literal">true</span>, video <span class="keyword">and</span> video poster must enable Cross-Origin</div><div class="line"><span class="symbol">'hotkey</span>': binding hot key, including left right <span class="keyword">and</span> Space, <span class="keyword">default</span>: <span class="literal">true</span></div><div class="line"><span class="symbol">'preload</span>': <span class="symbol">'auto</span>', the way <span class="keyword">to</span> load music, can be <span class="symbol">'none</span>' <span class="symbol">'metadata</span>' <span class="symbol">'auto</span>', <span class="keyword">default</span>: <span class="symbol">'auto</span>'</div><div class="line"><span class="symbol">'url</span>': Required, video url</div><div class="line"><span class="symbol">'pic</span>': video <span class="keyword">cover</span> picture</div><div class="line"><span class="symbol">'api</span>': DPlayer danmaku backend url</div><div class="line"><span class="symbol">'addition</span>': Dplayer danmuku <span class="keyword">for</span> bilibili </div><div class="line"><span class="symbol">'id</span>': see https://github.com/DIYgod/DPlayer</div><div class="line"><span class="symbol">'token</span>': see https://github.com/DIYgod/DPlayer</div><div class="line"><span class="symbol">'maximum</span>': maximum quantity <span class="keyword">of</span> danmaku</div><div class="line"><span class="symbol">'width</span>' maximum <span class="literal">width</span> <span class="keyword">of</span> the dplayer wraper</div><div class="line"><span class="symbol">'height</span>' maximum height <span class="keyword">of</span> the dplayer wraper, you can <span class="keyword">use</span> this like <span class="string">"height=233px"</span></div></pre></td></tr></table></figure></p>
-<h1 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h1><p>最简单的如下面的demo<br><figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=https://api.prprpr.me/dplayer/video/bilibili?aid=4280983"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure></p>
-<p>当然也有像官方示例一样稍微复杂的<br><figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=http://devtest.qiniudn.com/若能绽放光芒.mp4"</span> <span class="string">"addition=https://dplayer.daoapp.io/bilibili?aid=4157142"</span> <span class="string">"api=http://dplayer.daoapp.io"</span> <span class="string">"pic=http://devtest.qiniudn.com/若能绽放光芒.png"</span> <span class="string">"id=9E2E3368B56CDBB4"</span> <span class="string">"loop=yes"</span> <span class="string">"theme=#FADFA3"</span> <span class="string">"autoplay=false"</span> <span class="string">"token=tokendemo"</span> <span class="meta">%</span>&#125;</div><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=http://devtest.qiniudn.com/若能绽放光芒.mp4"</span> <span class="string">"addition=https://dplayer.daoapp.io/bilibili?aid=4157142"</span> <span class="string">"api=http://dplayer.donot.help/dplayerpy"</span> <span class="string">"pic=http://devtest.qiniudn.com/若能绽放光芒.png"</span> <span class="string">"id=2622668"</span> <span class="string">"loop=yes"</span> <span class="string">"theme=#FADFA3"</span> <span class="string">"autoplay=false"</span> <span class="string">"width=233px"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure></p>
-<h1 id="demo"><a href="#demo" class="headerlink" title="demo"></a>demo</h1><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"video":{"url":"https://api.prprpr.me/dplayer/video/bilibili?aid=4280983"}});</script>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;昨天晚上&lt;del&gt;今天凌晨&lt;/del&gt;准备睡觉的时候突然打算在博客上插点视
-    
-    </summary>
-    
-      <category term="技术" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="hexo" scheme="https://huangjiaming.com/tags/hexo/"/>
     
   </entry>
   
