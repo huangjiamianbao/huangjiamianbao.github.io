@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-07-09T13:16:43.415Z</updated>
+  <updated>2017-07-10T06:48:50.351Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,57 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Depressurizer——Steam游戏自动分类</title>
+    <link href="https://huangjiaming.com/2017/07/09/Depressurizer/"/>
+    <id>https://huangjiaming.com/2017/07/09/Depressurizer/</id>
+    <published>2017-07-09T21:53:18.000Z</published>
+    <updated>2017-07-10T06:48:50.351Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>喜+1导致找不到自己想玩的游戏怎么办？试试Depressurizer的自动分类吧。</p>
+<a id="more"></a>
+<p>我刚入坑的时候还不知道慈善包和喜+1这种操作，库里只有几十个游戏，因此不用进行分类管理也一目了然。自从开始喜+1，游戏数量就开始飙升，导致我很多时候找不到自己想玩的游戏。终于，我下定决心对游戏进行分类。<br>一开始，我将游戏分为了喜+1，独立游戏，大作等分类，但带来的问题就是有的游戏并不知道是否是喜+1得来的，况且这样分类每类里仍然有很多游戏，标签模糊导致效率并没有很大提升。直到我发现了一款Steam游戏自动分类的软件——Depressurizer。</p>
+<blockquote>
+<p>Depressurizer is a program aimed at making it a bit easier to manage large Steam game libraries.</p>
+<p>In addition to providing a way to quickly and easily modify games’ assigned categories, it also lets you mark them as Favorites or as hidden.</p>
+<p>Depressurizer can also autocategorize your games for you. Currently, it does so based on data from that games’ Steam store pages. It can use genres, store categories (like “Single-Player” and “Steam Cloud”) or tags.</p>
+<p>It also saves your configuration information independently of Steam, providing an automatic backup in the event that Steam loses your configuration.</p>
+</blockquote>
+<h1 id="下载"><a href="#下载" class="headerlink" title="下载"></a>下载</h1><p>在<a href="https://github.com/rallion/depressurizer/releases" target="_blank" rel="external">GitHub</a>下载，目前最新版是0.6.1.0，下载第一个zip即可。<img src="https://ooo.0o0.ooo/2017/07/10/5963199280d1e.png" alt=""></p>
+<blockquote>
+<p>Requirements</p>
+<p>Depressurizer requires the .NET Framework 4.5.1.</p>
+<p>It must be run on the same computer on which you use Steam, or one one of the computers on which you use Steam.</p>
+</blockquote>
+<p>解压后得到Depressurizer.exe一路打开。途中Depressurizer会自动检测你的Steam地址和Steam账户信息，如果信息有误，手动更改即可。<br><img src="https://ooo.0o0.ooo/2017/07/10/59631d6a1a416.png" alt=""><br><img src="https://ooo.0o0.ooo/2017/07/10/59631d6a423a9.png" alt=""></p>
+<h1 id="更新游戏信息"><a href="#更新游戏信息" class="headerlink" title="更新游戏信息"></a>更新游戏信息</h1><p>成功打开后，要想自动分类，首先要检测游戏信息。菜单栏选择<strong>Tools</strong>，再选择<strong>Datebase Editor</strong>。然后如图所示更新游戏信息。<br><img src="https://ooo.0o0.ooo/2017/07/10/59631f3823a4d.jpg" alt=""></p>
+<h1 id="设置自动分类"><a href="#设置自动分类" class="headerlink" title="设置自动分类"></a>设置自动分类</h1><p>第二步，设置自动分类，告诉Depressurizer你的分类标准。菜单栏选择<strong>Profile</strong>，再选择<strong>Edit Autocats</strong>。<br>由于个人分类方式不同，请自定义你的分类标准。我的分类标准：游戏分类，发行年份，用户评测。仅供参考。</p>
+<h1 id="自动分类"><a href="#自动分类" class="headerlink" title="自动分类"></a>自动分类</h1><p>制订好分类标准后，让Depressurizer开始分类。菜单栏选择<strong>Tools</strong>，再选择<strong>Auto-Cat ALL</strong>中你想使用的分类标准（可多选）。</p>
+<h1 id="保存"><a href="#保存" class="headerlink" title="保存"></a>保存</h1><blockquote>
+<p>保存前<em>退出</em>你的Steam！</p>
+</blockquote>
+<p>确认分类无误后，菜单栏选择<strong>File</strong>，再选择<strong>Save Profile</strong>。退出Depressurizer，即可打开Steam欣赏你的游戏分类。</p>
+<h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><ul>
+<li>Depressurizer的分类保存在本地，因此，你可能需要在你的所有电脑上运行。</li>
+<li>每次喜+1后，请重复以上步骤。</li>
+<li>无法分类的游戏（如锁区，信息不详）将会被归类到<strong>游戏</strong>分类。</li>
+<li>Depressurizer的bug较多，如有错误请多次尝试。</li>
+</ul>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;喜+1导致找不到自己想玩的游戏怎么办？试试Depressurizer的自动分类吧。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术研究" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6/"/>
+    
+    
+      <category term="Steam" scheme="https://huangjiaming.com/tags/Steam/"/>
+    
+  </entry>
   
   <entry>
     <title>2017/07/09维护</title>
@@ -1213,43 +1264,6 @@
     
     
       <category term="Steam" scheme="https://huangjiaming.com/tags/Steam/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>hexo使用dplayer插入视频</title>
-    <link href="https://huangjiaming.com/2017/05/29/hexodplayer/"/>
-    <id>https://huangjiaming.com/2017/05/29/hexodplayer/</id>
-    <published>2017-05-29T00:14:26.000Z</published>
-    <updated>2017-07-09T11:55:36.300Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>昨天晚上<del>今天凌晨</del>准备睡觉的时候突然打算在博客上插点视频，本来打算直接用html，但是一是大部分用的是flash，二是https支持不好，在网上搜到了dplayer，可以说是不错的解决方案了。</p>
-<hr>
-<p>dplayer参见：<br><a href="https://github.com/DIYgod/DPlayer" target="_blank" rel="external">dplayer的github</a><br><a href="http://dplayer.js.org/docs/#/" target="_blank" rel="external">dplayer的文档</a></p>
-<p>当然还有大佬移植到了hexo的插件，非常感谢<br>参见：<a href="https://github.com/NextMoe/hexo-tag-dplayer" target="_blank" rel="external">dplayer hexo插件的github</a></p>
-<p>安装好后在文章中直接调用即可</p>
-<hr>
-<h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><figure class="highlight sql"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">npm <span class="keyword">install</span> hexo-tag-dplayer <span class="comment">--save</span></div></pre></td></tr></table></figure>
-<h1 id="调用"><a href="#调用" class="headerlink" title="调用"></a>调用</h1><p>在文章中使用<br><figure class="highlight django"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line"><span class="xml"></span><span class="template-tag">&#123;% <span class="name">dplayer</span> key=value ... %&#125;</span><span class="xml"></span></div></pre></td></tr></table></figure></p>
-<p>来调用</p>
-<p>key：<br><figure class="highlight vhdl"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div></pre></td><td class="code"><pre><div class="line"><span class="symbol">'autoplay</span>': autoplay video, <span class="keyword">not</span> supported by mobile browsers</div><div class="line"><span class="symbol">'theme</span>': theme color, <span class="keyword">default</span>: #b7daff</div><div class="line"><span class="symbol">'loop</span>': <span class="keyword">loop</span> play music, <span class="keyword">default</span>: <span class="literal">true</span></div><div class="line"><span class="symbol">'lang</span>': language, `zh` <span class="keyword">for</span> Chinese, `en` <span class="keyword">for</span> English, <span class="keyword">default</span>: Navigator language</div><div class="line"><span class="symbol">'screenshot</span>':  enable screenshot <span class="keyword">function</span>, <span class="keyword">default</span>: <span class="literal">false</span>, NOTICE: <span class="keyword">if</span> set it <span class="keyword">to</span> <span class="literal">true</span>, video <span class="keyword">and</span> video poster must enable Cross-Origin</div><div class="line"><span class="symbol">'hotkey</span>': binding hot key, including left right <span class="keyword">and</span> Space, <span class="keyword">default</span>: <span class="literal">true</span></div><div class="line"><span class="symbol">'preload</span>': <span class="symbol">'auto</span>', the way <span class="keyword">to</span> load music, can be <span class="symbol">'none</span>' <span class="symbol">'metadata</span>' <span class="symbol">'auto</span>', <span class="keyword">default</span>: <span class="symbol">'auto</span>'</div><div class="line"><span class="symbol">'url</span>': Required, video url</div><div class="line"><span class="symbol">'pic</span>': video <span class="keyword">cover</span> picture</div><div class="line"><span class="symbol">'api</span>': DPlayer danmaku backend url</div><div class="line"><span class="symbol">'addition</span>': Dplayer danmuku <span class="keyword">for</span> bilibili </div><div class="line"><span class="symbol">'id</span>': see https://github.com/DIYgod/DPlayer</div><div class="line"><span class="symbol">'token</span>': see https://github.com/DIYgod/DPlayer</div><div class="line"><span class="symbol">'maximum</span>': maximum quantity <span class="keyword">of</span> danmaku</div><div class="line"><span class="symbol">'width</span>' maximum <span class="literal">width</span> <span class="keyword">of</span> the dplayer wraper</div><div class="line"><span class="symbol">'height</span>' maximum height <span class="keyword">of</span> the dplayer wraper, you can <span class="keyword">use</span> this like <span class="string">"height=233px"</span></div></pre></td></tr></table></figure></p>
-<h1 id="示例"><a href="#示例" class="headerlink" title="示例"></a>示例</h1><p>最简单的如下面的demo<br><figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=https://api.prprpr.me/dplayer/video/bilibili?aid=4280983"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure></p>
-<p>当然也有像官方示例一样稍微复杂的<br><figure class="highlight gcode"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=http://devtest.qiniudn.com/若能绽放光芒.mp4"</span> <span class="string">"addition=https://dplayer.daoapp.io/bilibili?aid=4157142"</span> <span class="string">"api=http://dplayer.daoapp.io"</span> <span class="string">"pic=http://devtest.qiniudn.com/若能绽放光芒.png"</span> <span class="string">"id=9E2E3368B56CDBB4"</span> <span class="string">"loop=yes"</span> <span class="string">"theme=#FADFA3"</span> <span class="string">"autoplay=false"</span> <span class="string">"token=tokendemo"</span> <span class="meta">%</span>&#125;</div><div class="line">&#123;<span class="meta">%</span> dplayer <span class="string">"url=http://devtest.qiniudn.com/若能绽放光芒.mp4"</span> <span class="string">"addition=https://dplayer.daoapp.io/bilibili?aid=4157142"</span> <span class="string">"api=http://dplayer.donot.help/dplayerpy"</span> <span class="string">"pic=http://devtest.qiniudn.com/若能绽放光芒.png"</span> <span class="string">"id=2622668"</span> <span class="string">"loop=yes"</span> <span class="string">"theme=#FADFA3"</span> <span class="string">"autoplay=false"</span> <span class="string">"width=233px"</span> <span class="meta">%</span>&#125;</div></pre></td></tr></table></figure></p>
-<h1 id="demo"><a href="#demo" class="headerlink" title="demo"></a>demo</h1><div id="dplayer0" class="dplayer" style="margin-bottom: 20px;"></div><script>var dplayer0 = new DPlayer({"element":document.getElementById("dplayer0"),"video":{"url":"https://api.prprpr.me/dplayer/video/bilibili?aid=4280983"}});</script>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;script src=&quot;/assets/js/DPlayer.min.js&quot;&gt; &lt;/script&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;&gt; &lt;/script&gt;&lt;p&gt;昨天晚上&lt;del&gt;今天凌晨&lt;/del&gt;准备睡觉的时候突然打算在博客上插点视
-    
-    </summary>
-    
-      <category term="技术研究" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6/"/>
-    
-    
-      <category term="hexo" scheme="https://huangjiaming.com/tags/hexo/"/>
-    
-      <category term="dplayer" scheme="https://huangjiaming.com/tags/dplayer/"/>
     
   </entry>
   
