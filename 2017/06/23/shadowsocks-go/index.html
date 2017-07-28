@@ -5,7 +5,7 @@
 <h1 id="防火墙设置"><a href="#防火墙设置" class="headerlink" title="防火墙设置"></a>防火墙设置</h1><p>位置：<code>/etc/sysconfig/iptables</code><br>添加ss所用端口：加入如下两句*n<br><figure class="highlight pf"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div></pre></td><td class="code"><pre><div class="line">-A INPUT -m <span class="keyword">state</span> --state NEW -m tcp -p tcp --dport 端口号 -j ACCEPT</div><div class="line">-A INPUT -m <span class="keyword">state</span> --state NEW -m udp -p udp --dport 端口号 -j ACCEPT</div></pre></td></tr></table></figure></p>
 <hr>
 <p><code>service iptables restart</code>重启防火墙<br><code>/etc/init.d/shadowsocks restart</code>重启ss</p>
-</div><script type="text/javascript" src="/js/share.js?v=0.0.0" async></script><a data-url="out.huangjiaming.com/2017/06/23/shadowsocks-go/" data-id="cj5n8h65r002cccxu9scpn8zs" class="article-share-link">分享</a><div class="tags"><a href="/tags/shadowsocks/">shadowsocks</a></div><div class="post-nav"><a href="/2017/06/23/2017-06-24maintenance/" class="pre">2017/06/24维护</a><a href="/2017/06/20/E33/" class="next">E3总结：Steam部分</a></div><div id="disqus_thread"><div class="btn_click_load"><button class="disqus_click_btn">阅读评论 「由于Disqus被墙，请确保您已翻墙」</button></div><script>var disqus_shortname = 'huangjiamianbao';
+</div><script type="text/javascript" src="/js/share.js?v=0.0.0" async></script><a data-url="out.huangjiaming.com/2017/06/23/shadowsocks-go/" data-id="cj5n8h65r002cccxu9scpn8zs" class="article-share-link">分享</a><div class="tags"><a href="/tags/shadowsocks/">shadowsocks</a></div><div class="post-nav"><a href="/2017/06/23/2017-06-24maintenance/" class="pre">2017/06/24维护</a><a href="/2017/06/20/E33/" class="next">E3总结：Steam部分</a></div><div id="disqus_thread"><div class="btn_click_load"><button class="disqus_click_btn">阅读评论 「请确保 disqus.com 可以正常加载」</button></div><script>var disqus_shortname = 'huangjiamianbao';
 var disqus_identifier = '2017/06/23/shadowsocks-go/';
 var disqus_title = 'shadowsocks-go的多账户配置';
 var disqus_url = 'out.huangjiaming.com/2017/06/23/shadowsocks-go/';
@@ -18,8 +18,8 @@ $('.btn_click_load').click(function() {
   $('.btn_click_load').css('display','none');
 });
 $.ajax({
-  url: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png',
-  timeout: 1,
+  url: 'https://disqus.com/favicon.ico',
+  timeout: 3000,
   type: 'GET',
   success: (function() {
     var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
