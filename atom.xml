@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-07-29T05:14:38.271Z</updated>
+  <updated>2017-07-29T08:53:28.093Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,49 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>将hexo博客托管于Coding Pages</title>
+    <link href="https://huangjiaming.com/2017/07/28/CodingPages/"/>
+    <id>https://huangjiaming.com/2017/07/28/CodingPages/</id>
+    <published>2017-07-28T21:23:10.000Z</published>
+    <updated>2017-07-29T08:53:28.093Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>为加速博客在国内<del>墙内</del>的访问，将hexo博客同时托管于GitHub Pages和Coding Pages。</p>
+<a id="more"></a>
+<h1 id="绑定SSH公钥"><a href="#绑定SSH公钥" class="headerlink" title="绑定SSH公钥"></a>绑定SSH公钥</h1><p>首先复制SSH公钥。如果之前已经托管于GitHub Pages的话，就不需要重新生成，复制即可。</p>
+<blockquote>
+<p>建议GitHub和Coding.net使用同样的邮箱注册，可以使用同一SSH密钥。</p>
+</blockquote>
+<p><code>vi ~/.ssh/id_rsa.pub //SSH公钥的存放位置</code></p>
+<p><code>复制整个文件</code></p>
+<p><img src="https://i.loli.net/2017/07/29/597c1ef3479ca.jpg" alt="在Coding.net右上角打开个人设置"></p>
+<p><img src="https://i.loli.net/2017/07/29/597c1f7b5d8e5.png" alt="在左侧选择SSH密钥"></p>
+<p><img src="https://i.loli.net/2017/07/29/597c1fd35474f.png" alt="粘贴之前复制的SSH密钥点击添加即可"></p>
+<h1 id="更改hexo配置"><a href="#更改hexo配置" class="headerlink" title="更改hexo配置"></a>更改hexo配置</h1><p><code>vi _config.yml //更改hexo配置文件</code></p>
+<p><code>在deploy下添加Coding Pages</code></p>
+<p>更改后的deploy部分应为：</p>
+<figure class="highlight less"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line"><span class="attribute">deploy</span>:</div><div class="line"></div><div class="line">  <span class="attribute">type</span>:git</div><div class="line"></div><div class="line">  <span class="attribute">repo</span>:</div><div class="line"></div><div class="line">    <span class="attribute">github</span>: git<span class="variable">@github</span>.<span class="attribute">com</span>:用户名/用户名.github.io.git</div><div class="line"></div><div class="line">    <span class="attribute">coding</span>: git<span class="variable">@git</span>.coding.<span class="attribute">net</span>:用户名/用户名.git</div><div class="line"></div><div class="line">  <span class="attribute">branch</span>: master</div></pre></td></tr></table></figure>
+<p><code>hexo d -g //部署hexo</code></p>
+<blockquote>
+<p>有不可靠的消息称还需要在source文件夹下新建一个空白文件Staticfile，作为Coding Pages识别静态网页的依据。</p>
+</blockquote>
+<h1 id="在Coding-net开启Coding-Pages"><a href="#在Coding-net开启Coding-Pages" class="headerlink" title="在Coding.net开启Coding Pages"></a>在Coding.net开启Coding Pages</h1><p><img src="https://i.loli.net/2017/07/29/597c4be115c0b.png" alt="在左侧选择Pages服务"></p>
+<p><img src="https://i.loli.net/2017/07/29/597c4c36578f8.png" alt="在部署来源处选择master分支，点击保存即可"></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;为加速博客在国内&lt;del&gt;墙内&lt;/del&gt;的访问，将hexo博客同时托管于GitHub Pages和Coding Pages。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术研究" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6/"/>
+    
+    
+      <category term="hexo" scheme="https://huangjiaming.com/tags/hexo/"/>
+    
+  </entry>
   
   <entry>
     <title>2017/07/29维护</title>
@@ -1133,82 +1176,6 @@
     
     
       <category term="开箱" scheme="https://huangjiaming.com/tags/%E5%BC%80%E7%AE%B1/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>轻量级标记语言Markdown</title>
-    <link href="https://huangjiaming.com/2017/06/13/Markdown/"/>
-    <id>https://huangjiaming.com/2017/06/13/Markdown/</id>
-    <published>2017-06-13T05:22:00.000Z</published>
-    <updated>2017-07-09T12:32:45.506Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>Markdown的语法简介和推荐编辑器</p>
-<a id="more"></a>
-<blockquote>
-<p>Markdown 是一种轻量级标记语言，创始人为约翰·格鲁伯（John Gruber）。它允许人们“使用易读易写的纯文本格式编写文档，然后转换成有效的XHTML(或者HTML)文档”。这种语言吸收了很多在电子邮件中已有的纯文本标记的特性。 John Gruber 在 2004 年创造了 Markdown 语言，在语法上有很大一部分是跟亚伦·斯沃茨（Aaron Swartz）共同合作的。这个语言的目的是希望大家使用“易于阅读、易于撰写的纯文字格式，并选择性的转换成有效的 XHTML (或是HTML)”。 其中最重要的设计是可读性，也就是说这个语言应该要能直接在字面上的被阅读，而不用被一些格式化指令标记 (像是 RTF 与 HTML)。 因此，它是现行电子邮件标记格式的惯例，虽然它也借鉴了很多早期的标记语言，如：setext、Texile、reStructuredText。 许多网站都使用 Markdown 或是其变种，例如：GitHub、reddit、Diaspora、Stack Exchange、OpenStreetMap 与 SourceForge 让用户更利于讨论。 Markdown同时还是一个由Gruber编写的Perl脚本：Markdown.pl。它把用markdown语法编写的内容转换成有效的、结构良好的XHTML或HTML内容，并将左尖括号(‘&lt;’)和&amp;号替换成它们各自的字符实体引用。它可以用作单独的脚本，Blosxom和Movable Type的插件又或者BBEdit的文本过滤器. Markdown也已经被其他人用Perl和别的编程语言重新实现，其中一个Perl模块放在了CPAN(Text::Markdown)上。它基于一个BSD风格的许可证分发并可以作为几个内容管理系统的插件。</p>
-</blockquote>
-<hr>
-<h1 id="编辑器推荐"><a href="#编辑器推荐" class="headerlink" title="编辑器推荐"></a>编辑器推荐</h1><h2 id="macOS"><a href="#macOS" class="headerlink" title="macOS"></a>macOS</h2><p>Mou</p>
-<h2 id="iOS"><a href="#iOS" class="headerlink" title="iOS"></a>iOS</h2><p>Marklite</p>
-<h2 id="android"><a href="#android" class="headerlink" title="android"></a>android</h2><p>MarkdownEditors</p>
-<p><del>Windows上的编辑器由于没有用过，不做推荐</del></p>
-<h1 id="语法简介"><a href="#语法简介" class="headerlink" title="语法简介"></a>语法简介</h1><blockquote>
-<p>由于Markdown的许多语法过于繁琐或用处不大，以下仅包含最基本的语法，其他高级操作请自行探索</p>
-</blockquote>
-<ul>
-<li>标题</li>
-<li>斜体</li>
-<li>粗体</li>
-<li>删除线</li>
-<li>链接</li>
-<li>图片</li>
-<li>列表</li>
-<li>引用</li>
-<li>代码</li>
-</ul>
-<h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><p>格式：<br><figure class="highlight clean"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div></pre></td><td class="code"><pre><div class="line"># 一级标题</div><div class="line">## 二级标题</div><div class="line">### 三级标题</div><div class="line">......</div></pre></td></tr></table></figure></p>
-<p>示例：</p>
-<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h2 id="斜体"><a href="#斜体" class="headerlink" title="斜体"></a>斜体</h2><p>格式：<code>*斜体文字*</code><br>示例：<em>斜体文字</em> </p>
-<h2 id="粗体"><a href="#粗体" class="headerlink" title="粗体"></a>粗体</h2><p>格式：<code>**粗体文字**</code><br>示例：<strong>粗体文字</strong></p>
-<h2 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h2><p>格式：<code>~~删除文字~~</code><br>示例：<del>删除文字</del></p>
-<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>格式：<code>[网站名](网站地址)</code><br>示例：<a href="https://huangjiaming.com">黄家面包</a></p>
-<h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p>格式：<code>![图片名](图片地址)</code><br>示例：<br><img src="https://ooo.0o0.ooo/2017/06/13/593ff1c455c50.jpg" alt="常见诈骗手段"></p>
-<blockquote>
-<p>安利一个图床，免费，支持https<a href="https://sm.ms" target="_blank" rel="external">sm.ms</a></p>
-</blockquote>
-<h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><p>格式：<br><figure class="highlight markdown"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div></pre></td><td class="code"><pre><div class="line">无序列表：</div><div class="line"><span class="bullet">- </span>内容</div><div class="line"><span class="bullet">- </span>内容</div><div class="line"><span class="bullet">- </span>内容</div><div class="line">有序列表：</div><div class="line"><span class="bullet">1. </span>内容</div><div class="line"><span class="bullet">2. </span>内容</div><div class="line"><span class="bullet">3. </span>内容</div></pre></td></tr></table></figure></p>
-<p>示例：</p>
-<ul>
-<li>内容</li>
-<li>内容</li>
-<li>内容</li>
-</ul>
-<ol>
-<li>内容</li>
-<li>内容</li>
-<li>内容</li>
-</ol>
-<h2 id="引用"><a href="#引用" class="headerlink" title="引用"></a>引用</h2><p>格式： <code>&gt; 引用内容</code><br>示例：</p>
-<blockquote>
-<p>引用内容</p>
-</blockquote>
-<h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><p>格式：<br><figure class="highlight clean"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">`代码句`</div></pre></td></tr></table></figure></p>
-<figure class="highlight clean"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">三个`</div><div class="line">代码段</div><div class="line">三个`</div></pre></td></tr></table></figure>
-<p>示例：<br><code>代码句</code></p>
-<figure class="highlight"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">代码段</div></pre></td></tr></table></figure>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Markdown的语法简介和推荐编辑器&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="随笔文章" scheme="https://huangjiaming.com/categories/%E9%9A%8F%E7%AC%94%E6%96%87%E7%AB%A0/"/>
-    
-    
-      <category term="Markdown" scheme="https://huangjiaming.com/tags/Markdown/"/>
     
   </entry>
   
