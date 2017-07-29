@@ -204,17 +204,17 @@
     <published>2017-07-09T04:53:26.000Z</published>
     <updated>2017-07-09T13:16:43.415Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>重写了<a href="https://huangjiaming.com/about/" target="_blank" rel="external">关于页面</a>，<a href="https://huangjiaming.com/water/" target="_blank" rel="external">水区页面</a>，取消了Steam链接，重写了分类和标签。</p>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>重写了<a href="https://huangjiaming.com/about/">关于页面</a>，<a href="https://huangjiaming.com/water/">水区页面</a>，取消了Steam链接，重写了分类和标签。</p>
 <a id="more"></a>
-<h1 id="重写了关于页面"><a href="#重写了关于页面" class="headerlink" title="重写了关于页面"></a>重写了关于页面</h1><p>主要是把之前的文字替换成了链接和图，参见<a href="https://huangjiaming.com/about/" target="_blank" rel="external">关于页面</a>。</p>
-<h1 id="重写了水区页面"><a href="#重写了水区页面" class="headerlink" title="重写了水区页面"></a>重写了水区页面</h1><p>精炼了表达，参见<a href="https://huangjiaming.com/water/" target="_blank" rel="external">水区页面</a>。</p>
-<h1 id="删除了Steam链接"><a href="#删除了Steam链接" class="headerlink" title="删除了Steam链接"></a>删除了Steam链接</h1><p>由于把<a href="https://huangjiaming.com/about/" target="_blank" rel="external">关于页面</a>的Steam信息替换为了链接，因此页面上方的Steam链接没有了存在的必要。</p>
+<h1 id="重写了关于页面"><a href="#重写了关于页面" class="headerlink" title="重写了关于页面"></a>重写了关于页面</h1><p>主要是把之前的文字替换成了链接和图，参见<a href="https://huangjiaming.com/about/">关于页面</a>。</p>
+<h1 id="重写了水区页面"><a href="#重写了水区页面" class="headerlink" title="重写了水区页面"></a>重写了水区页面</h1><p>精炼了表达，参见<a href="https://huangjiaming.com/water/">水区页面</a>。</p>
+<h1 id="删除了Steam链接"><a href="#删除了Steam链接" class="headerlink" title="删除了Steam链接"></a>删除了Steam链接</h1><p>由于把<a href="https://huangjiaming.com/about/">关于页面</a>的Steam信息替换为了链接，因此页面上方的Steam链接没有了存在的必要。</p>
 <h1 id="重写了分类和标签"><a href="#重写了分类和标签" class="headerlink" title="重写了分类和标签"></a>重写了分类和标签</h1><p>之前分类和标签改了无数次，但始终没有达到我满意的效果。<br>分类应当是事先规划好的，每篇文章只能属于一个分类，而标签可以随时添加，每篇文章可以关联多个标签。<br>因此，分类应该体现文章的类别而不是内容，内容的概括交给标签。<br>在上述基础下，我重写了分类和标签。现在分类共有四个，标签则有很多。欢迎查看现在的分类和标签。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;重写了&lt;a href=&quot;https://huangjiaming.com/about/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;关于页面&lt;/a&gt;，&lt;a href=&quot;https://huangjiaming.com/water/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;水区页面&lt;/a&gt;，取消了Steam链接，重写了分类和标签。&lt;/p&gt;
+      &lt;p&gt;重写了&lt;a href=&quot;https://huangjiaming.com/about/&quot;&gt;关于页面&lt;/a&gt;，&lt;a href=&quot;https://huangjiaming.com/water/&quot;&gt;水区页面&lt;/a&gt;，取消了Steam链接，重写了分类和标签。&lt;/p&gt;
     
     </summary>
     
@@ -365,7 +365,7 @@
     <published>2017-06-23T09:21:36.000Z</published>
     <updated>2017-07-09T11:36:08.731Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>更换了Disqus评论系统，将留言页面改为水区，删除了几乎所有的网易云音乐外链，关闭了一些页面的评论，重写了<a href="https://huangjiaming.com/2017/05/09/欢迎/" target="_blank" rel="external">欢迎</a></p>
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>更换了Disqus评论系统，将留言页面改为水区，删除了几乎所有的网易云音乐外链，关闭了一些页面的评论，重写了<a href="https://huangjiaming.com/2017/05/09/欢迎/">欢迎</a></p>
 <a id="more"></a>
 <h1 id="Disqus"><a href="#Disqus" class="headerlink" title="Disqus"></a>Disqus</h1><p>之前博客使用的是网易云跟帖，让我放弃的原因主要有三个。</p>
 <ul>
@@ -374,15 +374,15 @@
 <li>简陋</li>
 </ul>
 <p>于是换成了Disqus，强大的评论系统。但是有个关键问题，被墙了。尝试过使用反向代理，但失败了。所以只能退而求其次，在墙外会正常加载，在墙内不会加载，并会提示<em>阅读评论「请确保disqus.com可以正常加载」</em>。详细功能请自行体验。</p>
-<h1 id="留言页面改为水区"><a href="#留言页面改为水区" class="headerlink" title="留言页面改为水区"></a>留言页面改为水区</h1><p>详见<a href="https://huangjiaming.com/water/" target="_blank" rel="external">水区</a></p>
-<h1 id="删除了几乎所有的网易云外链"><a href="#删除了几乎所有的网易云外链" class="headerlink" title="删除了几乎所有的网易云外链"></a>删除了几乎所有的网易云外链</h1><p>提高访问速度，因为网易云外链加载过慢。但保留了一个，在<a href="https://huangjiaming.com/about/" target="_blank" rel="external">关于页面</a>。</p>
-<h1 id="关闭了一些页面的评论"><a href="#关闭了一些页面的评论" class="headerlink" title="关闭了一些页面的评论"></a>关闭了一些页面的评论</h1><p>同样是为了提高访问速度，关闭了一些不需要评论的页面的评论，如<a href="https://huangjiaming.com/about/" target="_blank" rel="external">关于页面</a>和<a href="https://huangjiaming.com/about/" target="_blank" rel="external">历史页面</a>。</p>
-<h1 id="重写了欢迎"><a href="#重写了欢迎" class="headerlink" title="重写了欢迎"></a>重写了欢迎</h1><p>详见<a href="https://huangjiaming.com/2017/05/09/欢迎/" target="_blank" rel="external">欢迎</a></p>
+<h1 id="留言页面改为水区"><a href="#留言页面改为水区" class="headerlink" title="留言页面改为水区"></a>留言页面改为水区</h1><p>详见<a href="https://huangjiaming.com/water/">水区</a></p>
+<h1 id="删除了几乎所有的网易云外链"><a href="#删除了几乎所有的网易云外链" class="headerlink" title="删除了几乎所有的网易云外链"></a>删除了几乎所有的网易云外链</h1><p>提高访问速度，因为网易云外链加载过慢。但保留了一个，在<a href="https://huangjiaming.com/about/">关于页面</a>。</p>
+<h1 id="关闭了一些页面的评论"><a href="#关闭了一些页面的评论" class="headerlink" title="关闭了一些页面的评论"></a>关闭了一些页面的评论</h1><p>同样是为了提高访问速度，关闭了一些不需要评论的页面的评论，如<a href="https://huangjiaming.com/about/">关于页面</a>和<a href="https://huangjiaming.com/about/">历史页面</a>。</p>
+<h1 id="重写了欢迎"><a href="#重写了欢迎" class="headerlink" title="重写了欢迎"></a>重写了欢迎</h1><p>详见<a href="https://huangjiaming.com/2017/05/09/欢迎/">欢迎</a></p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;更换了Disqus评论系统，将留言页面改为水区，删除了几乎所有的网易云音乐外链，关闭了一些页面的评论，重写了&lt;a href=&quot;https://huangjiaming.com/2017/05/09/欢迎/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;欢迎&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;更换了Disqus评论系统，将留言页面改为水区，删除了几乎所有的网易云音乐外链，关闭了一些页面的评论，重写了&lt;a href=&quot;https://huangjiaming.com/2017/05/09/欢迎/&quot;&gt;欢迎&lt;/a&gt;&lt;/p&gt;
     
     </summary>
     
@@ -1141,7 +1141,7 @@
 <h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h2 id="斜体"><a href="#斜体" class="headerlink" title="斜体"></a>斜体</h2><p>格式：<code>*斜体文字*</code><br>示例：<em>斜体文字</em> </p>
 <h2 id="粗体"><a href="#粗体" class="headerlink" title="粗体"></a>粗体</h2><p>格式：<code>**粗体文字**</code><br>示例：<strong>粗体文字</strong></p>
 <h2 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h2><p>格式：<code>~~删除文字~~</code><br>示例：<del>删除文字</del></p>
-<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>格式：<code>[网站名](网站地址)</code><br>示例：<a href="https://huangjiaming.com" target="_blank" rel="external">黄家面包</a></p>
+<h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>格式：<code>[网站名](网站地址)</code><br>示例：<a href="https://huangjiaming.com">黄家面包</a></p>
 <h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p>格式：<code>![图片名](图片地址)</code><br>示例：<br><img src="https://ooo.0o0.ooo/2017/06/13/593ff1c455c50.jpg" alt="常见诈骗手段"></p>
 <blockquote>
 <p>安利一个图床，免费，支持https<a href="https://sm.ms" target="_blank" rel="external">sm.ms</a></p>
