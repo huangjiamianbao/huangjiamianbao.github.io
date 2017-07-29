@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-07-24T16:12:08.996Z</updated>
+  <updated>2017-07-29T05:14:38.271Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,37 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2017/07/29维护</title>
+    <link href="https://huangjiaming.com/2017/07/28/2017-07-29maintenance/"/>
+    <id>https://huangjiaming.com/2017/07/28/2017-07-29maintenance/</id>
+    <published>2017-07-28T20:54:38.000Z</published>
+    <updated>2017-07-29T05:14:38.271Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>更改了域名的解析，重写了评论系统。</p>
+<a id="more"></a>
+<h1 id="域名的解析"><a href="#域名的解析" class="headerlink" title="域名的解析"></a>域名的解析</h1><p>博客同时托管于GitHub Pages和Coding Pages。之前的解析是将<em>in.huangjiaming.com</em>解析到Coding Pages，<em>out.huangjiaming.com</em>解析到GitHub Pages，而<em>huangjiaming.com</em>和<em>www.huangjiaming.com</em>则解析到选择页面。</p>
+<p>但二级域名使得一些操作十分不友好，而且最关键的是Disqus加载不出来，这迫使我重新规划域名的解析，也就是这次维护的内容之一。</p>
+<p><em>huangjiaming.com</em>，<em>www.huangjiaming.com</em>和<em>in.huangjiaming.com</em>均解析到Coding Pages，并且先会跳转到<em>huangjiaming.com</em>。而<em>out.huangjiaming.com</em>则会解析到GitHub Pages。</p>
+<p>由于我取消了选择页面，为了实现互相切换，在网站的最上方加入了两个按钮，分别对应墙内访问和墙外访问。</p>
+<h1 id="评论系统"><a href="#评论系统" class="headerlink" title="评论系统"></a>评论系统</h1><p>正如上文所说，之前的域名解析更改导致Disqus加载不出来，于是重写了评论系统，再配合新的域名解析方案，Disqus终于成功地重新工作了。</p>
+<p>Coding Pages和GitHub Pages使用的是一套评论系统，因此，两个域名下的评论是实时同步的。但，Disqus需要翻墙的问题仍然存在。<del>实践发现GFW有时会抽风，某些情况下Disqus可以裸连</del></p>
+<p><del>最后，之前的评论不小心清空了。。。</del></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;更改了域名的解析，重写了评论系统。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="杂七杂八" scheme="https://huangjiaming.com/categories/%E6%9D%82%E4%B8%83%E6%9D%82%E5%85%AB/"/>
+    
+    
+      <category term="博客维护" scheme="https://huangjiaming.com/tags/%E5%8D%9A%E5%AE%A2%E7%BB%B4%E6%8A%A4/"/>
+    
+  </entry>
   
   <entry>
     <title>颓废 is wonderful 每周roll</title>
@@ -1178,68 +1209,6 @@
     
     
       <category term="Markdown" scheme="https://huangjiaming.com/tags/Markdown/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Go Go Bundle Limited #4 #6 Cleverweek Bundle #1</title>
-    <link href="https://huangjiaming.com/2017/06/12/GoGoBundleLimited-4-6CleverweekBundle-1/"/>
-    <id>https://huangjiaming.com/2017/06/12/GoGoBundleLimited-4-6CleverweekBundle-1/</id>
-    <published>2017-06-12T04:52:55.000Z</published>
-    <updated>2017-07-09T11:54:07.026Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>Go Go Bundle最近要疯，虽然包看起来不便宜，但买大商屯的每包只要¥2-¥2.1，而且我一个也没绿<del>所以没有附赠的key了。。。</del></p>
-<a id="more"></a>
-<h1 id="Go-Go-Bundle-Cleverweek-Bundle-1"><a href="#Go-Go-Bundle-Cleverweek-Bundle-1" class="headerlink" title="Go Go Bundle Cleverweek Bundle #1"></a>Go Go Bundle Cleverweek Bundle #1</h1><p>$1.49 7games+4dlc<br>购买地址：<a href="https://www.gogobundle.com/latest/bundles/cleverweek-1" target="_blank" rel="external">Go Go Bundle</a><br>$1.49 1份<br>$1.99 2份<br>$2.99 5份<br>$4.99 10份<br>$7.99 20份<br>$14.99 50份<br>淘宝参考价格：¥2.1 1份<br>游戏：</p>
-<ul>
-<li>Multimirror</li>
-<li>Tenrow</li>
-<li>Swiftly</li>
-<li>The Growth Journey</li>
-<li>Snik</li>
-<li>Three Digits</li>
-<li>Two Digits</li>
-<li>Multimirror - Soundtrack（dlc）</li>
-<li>The Growth Journey - Soundtrack（dlc）</li>
-<li>Snik - Soundtrack（dlc）</li>
-<li>Three Digits - Soundtrack（dlc）</li>
-</ul>
-<h1 id="Go-Go-Bundle-Limited-4"><a href="#Go-Go-Bundle-Limited-4" class="headerlink" title="Go Go Bundle Limited #4"></a>Go Go Bundle Limited #4</h1><p>由于是不小心买错的，没有详细信息<br>淘宝参考价格：¥2.1 1份<br>游戏：</p>
-<ul>
-<li>No Turning Back</li>
-<li>PIGMENTUM</li>
-<li>Fergus The Fly</li>
-<li>Power-Up</li>
-<li>Flix The Flea</li>
-<li>Yet Another World</li>
-<li>Cube Land Arena</li>
-<li>Call Of The Mighty Warriors</li>
-<li>Adam and Eve: The Game</li>
-</ul>
-<h1 id="Go-Go-Bundle-Limited-6"><a href="#Go-Go-Bundle-Limited-6" class="headerlink" title="Go Go Bundle Limited #6"></a>Go Go Bundle Limited #6</h1><p>$1.49 9games<br>购买地址：<a href="https://gogobundle.com/latest/bundles/bundlelimited-6" target="_blank" rel="external">Go Go Bundle</a><br>$1.49 1份<br>$1.99 2份<br>$2.99 5份<br>$4.99 10份<br>$7.99 20份<br>$14.99 50份<br>淘宝参考价格：¥2.02 1份<br>游戏：</p>
-<ul>
-<li>A Land Fit For Heroes</li>
-<li>Jet Racing Extreme</li>
-<li>OCEAN CITY RACING Redux</li>
-<li>Hover Hazard</li>
-<li>Super Switch</li>
-<li>Burst</li>
-<li>Eight Mini Racers</li>
-<li>Eron</li>
-<li>Hit Tank PRO</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Go Go Bundle最近要疯，虽然包看起来不便宜，但买大商屯的每包只要¥2-¥2.1，而且我一个也没绿&lt;del&gt;所以没有附赠的key了。。。&lt;/del&gt;&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="游戏杂谈" scheme="https://huangjiaming.com/categories/%E6%B8%B8%E6%88%8F%E6%9D%82%E8%B0%88/"/>
-    
-    
-      <category term="慈善包" scheme="https://huangjiaming.com/tags/%E6%85%88%E5%96%84%E5%8C%85/"/>
     
   </entry>
   
