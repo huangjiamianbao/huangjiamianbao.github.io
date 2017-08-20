@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://huangjiaming.com/"/>
-  <updated>2017-08-20T01:27:21.499Z</updated>
+  <updated>2017-08-20T05:55:31.813Z</updated>
   <id>https://huangjiaming.com/</id>
   
   <author>
@@ -14,6 +14,57 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>WordArt</title>
+    <link href="https://huangjiaming.com/2017/08/20/WordArt/"/>
+    <id>https://huangjiaming.com/2017/08/20/WordArt/</id>
+    <published>2017-08-20T05:30:24.000Z</published>
+    <updated>2017-08-20T05:55:31.813Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>关于词云制作网站WordArt的简单介绍与安利。</p>
+<a id="more"></a>
+<p>先放两张图</p>
+<p><img src="https://i.loli.net/2017/08/20/59991c69cd88c.png" alt=""></p>
+<p><img src="https://ooo.0o0.ooo/2017/08/20/59991c6abc2d3.png" alt=""></p>
+<p>诸如此类的图相信你肯定见过，我们暂且称之为词云<del>当然也有许多其他称谓，如云图等</del>。</p>
+<p>突发奇想<del>闲得不行</del>的我前两天突然打算画两张词云，在参考了Google和知乎后还有自己的实践后，选定了WordArt，画出了上面两幅。</p>
+<p><a href="https://wordart.com" target="_blank" rel="external">WordArt</a></p>
+<h1 id="注册-登录"><a href="#注册-登录" class="headerlink" title="注册/登录"></a>注册/登录</h1><p>不注册当然也可以，但注册登录后可以保存你的作品，方便以后的修改，因此推荐进行注册和登录。</p>
+<h1 id="添加关键词"><a href="#添加关键词" class="headerlink" title="添加关键词"></a>添加关键词</h1><p>除了最基本的手动添加，WordArt也提供了文本分析和网站分析，可以满足大部分的需要。</p>
+<blockquote>
+<p>注意：WordArt对中文的支持并不完美，下文将会提到。</p>
+</blockquote>
+<h1 id="图案"><a href="#图案" class="headerlink" title="图案"></a>图案</h1><p>称之为形状也可。也就是最后图片的样子。除了提供的许多图案之外，你也可以自己上传图片。上文的两张词云均是通过上传图片完成的。</p>
+<blockquote>
+<p>注意：上传的图片请尽量注意颜色区分和轮廓明显，最好的例子如证件照，否则会对最后生成的词云相似度有影响。</p>
+</blockquote>
+<h1 id="字体"><a href="#字体" class="headerlink" title="字体"></a>字体</h1><p>自带许多字体，但也支持自己上传。这里就要提到上文所说的中文支持问题了。默认的字体不支持中文，因此想要制作中文词云有两个选择：</p>
+<ul>
+<li>使用自带的中文字体</li>
+<li>自己上传字体</li>
+</ul>
+<p>先说自带的中文字体，虽然有，但也只有一个，而且并不完美。自带的中文字体是<em>Noto Sans S Chinese Regular</em>，理论上讲可以满足需要了，但致命缺陷是有些字仍然不支持，因此你可能需要删掉一些字。</p>
+<p>再说上传字体，选择你喜欢的字体上传即可。如果是Windows字体的话应该在系统盘Windows文件夹中的Fonts文件夹中。</p>
+<h1 id="选择输出方式"><a href="#选择输出方式" class="headerlink" title="选择输出方式"></a>选择输出方式</h1><p>经过我的测试，第一排第三个，也就是行列都有的输出比较美观。但也可以根据自己的美感选择。</p>
+<h1 id="颜色"><a href="#颜色" class="headerlink" title="颜色"></a>颜色</h1><p>通常情况下无需更改，如有自定义的需求请自行更改。</p>
+<h1 id="下载和分享"><a href="#下载和分享" class="headerlink" title="下载和分享"></a>下载和分享</h1><p>比较普遍的方式是下载PNG文件，但免费账户不能下载高清图片。付费的话最低套餐是$9.99/5次下载，请根据情况选择。如果免费的画质已经足够就无须购买。</p>
+<h1 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h1><p>WordArt的词云并不是即时生成，也就是说你的改动并不会实时出现在右边的预览中。想要预览最新的改动请手动点击<em>Visualize按钮</em>。</p>
+<p>制作完成后可以点击<em>Save changes按钮</em>进行保存，方便下次的修改。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;关于词云制作网站WordArt的简单介绍与安利。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="技术研究" scheme="https://huangjiaming.com/categories/%E6%8A%80%E6%9C%AF%E7%A0%94%E7%A9%B6/"/>
+    
+    
+      <category term="词云" scheme="https://huangjiaming.com/tags/%E8%AF%8D%E4%BA%91/"/>
+    
+  </entry>
   
   <entry>
     <title>Gabe Newell应援群 每周roll</title>
@@ -1135,41 +1186,6 @@
     
     
       <category term="qiandao" scheme="https://huangjiaming.com/tags/qiandao/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>杰瑞超级8号包</title>
-    <link href="https://huangjiaming.com/2017/06/15/Jerry8/"/>
-    <id>https://huangjiaming.com/2017/06/15/Jerry8/</id>
-    <published>2017-06-15T01:03:44.000Z</published>
-    <updated>2017-07-09T12:36:01.527Z</updated>
-    
-    <content type="html"><![CDATA[<script src="/assets/js/DPlayer.min.js"> </script><script src="/assets/js/APlayer.min.js"> </script><p>¥25.5 112games</p>
-<a id="more"></a>
-<p>最早知道这个包是群里大佬说的，后来上steamcn查了查才知道。算是个大商自己搞的慈善包。算不上是什么<strong>超级神包</strong>，但也感觉性价比不错，如果绿的不多的话可以考虑。</p>
-<blockquote>
-<p>没有提供ASF批量格式的key，懒癌慎买</p>
-</blockquote>
-<p><a href="https://steamcn.com/t279911-1-1" target="_blank" rel="external">steamcn原帖</a></p>
-<p>淘宝搜索杰瑞8，销量第一即是</p>
-<p>由于游戏数量较多，我就不列了，请在steamcn原帖查看。</p>
-<blockquote>
-<p>同样由于游戏数量较多，ASF批量激活会被锁账户，大约需要分三次激活，间隔半小时到一小时</p>
-</blockquote>
-<p>最后放三个绿了的key<br><figure class="highlight mipsasm"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">Dear RED - <span class="keyword">Extended：CMLQ4-KKEGY-ITPNV</span></div><div class="line">Three <span class="keyword">Digits：QEH4G-V3K9A-7BJ3W</span></div><div class="line">PIGMENTUM：VRVR9-PJ6J8-ADYI0</div></pre></td></tr></table></figure></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;¥25.5 112games&lt;/p&gt;
-    
-    </summary>
-    
-      <category term="游戏杂谈" scheme="https://huangjiaming.com/categories/%E6%B8%B8%E6%88%8F%E6%9D%82%E8%B0%88/"/>
-    
-    
-      <category term="慈善包" scheme="https://huangjiaming.com/tags/%E6%85%88%E5%96%84%E5%8C%85/"/>
     
   </entry>
   
